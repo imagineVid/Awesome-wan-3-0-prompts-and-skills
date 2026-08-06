@@ -1,0 +1,224 @@
+{
+  "es": {
+    "1": {
+      "title": "Boxeo en una arena lluviosa con coreografía legible",
+      "description": "Un brief de acción de 17 segundos que separa a dos luchadoras, coreografía cada intercambio y usa lluvia, charcos, cámara y continuidad para mantener el duelo claro.",
+      "content": "Crea una secuencia de boxeo cinematográfica de 17 segundos, 16:9 y realismo 3D, con dos luchadoras adultas en una arena circular de piedra en ruinas durante la noche. Mantén constantes sus rostros, cuerpos, vestuario y posiciones. Usa solo puños, bloqueos, desvíos, esquivas y desplazamientos. Empieza con un plano general bajo, pasa al seguimiento lateral durante el intercambio, añade una breve esquiva en cámara lenta y termina con una semiórbita controlada después de un uppercut limpio. Lluvia ligera, charcos reflectantes, luz lunar fría, antorchas cálidas, sudor y gotas realistas. Sin diálogo, subtítulos, música, armas, poderes, errores anatómicos, personajes duplicados ni marca de agua."
+    },
+    "2": {
+      "title": "Combate de lanza en siete planos con dirección de pantalla bloqueada",
+      "description": "Un prompt fuente para un duelo de animación cel de siete planos que fija la geografía de pantalla, los vectores de acción, la energía por colores, las pausas de impacto y la continuidad.",
+      "content": "Crea una pelea de 15 segundos, 16:9 y animación 2D dibujada a mano en siete planos. Una luchadora pequeña con lanza empieza a la izquierda y un enorme boxeador empieza a la derecha; conserva ese eje de cámara durante todo el clip. Usa energía cian para ella y naranja incandescente para él. Construye anticipación, una losa lanzada, un salto sobre escombros, una escalera de fragmentos suspendidos, un breve golpe en cámara lenta, un primer plano de los ojos y un golpe final de lanza con medio beat de silencio y pausa de impacto. Conserva diseños, rostros, heridas, daños de la arena, física pesada y exactamente siete planos. Sin planos extra, texto, subtítulos, marca de agua ni cuerpos fusionados."
+    },
+    "3": {
+      "title": "Apertura de drama televisivo con una sola revelación visual",
+      "description": "Reconstrucción transparente de la lógica de planos de una muestra de apertura televisiva de Wan 3.0: establecer el lugar, revelar un personaje y cerrar con un beat motivado.",
+      "content": "Crea una apertura de drama televisivo de 30 segundos, 16:9 y un solo mundo visual coherente. Empieza con un plano general tranquilo al amanecer y avanza hacia un personaje que camina por una calle urbana mojada. Corta solo cuando cambie el beat narrativo: un reflejo revela una segunda figura, la cámara sigue al protagonista bajo un toldo y un acercamiento lento termina cuando observa un objeto en su mano. Conserva vestuario, clima, arquitectura y dirección de pantalla. Usa color natural sobrio, pasos, lluvia sobre metal, tráfico lejano y una subida musical baja en la revelación final. Sin subtítulos, logotipos ni reinicios de escena arbitrarios."
+    },
+    "4": {
+      "title": "Personaje, lugar y voz ensamblados desde referencias separadas",
+      "description": "Un brief multimodal reutilizable derivado de la nota de capacidades de PixelDojo: asigna identidad, escenario y voz a entradas distintas y explicita las reglas de continuidad.",
+      "content": "Crea una escena cinematográfica de 20 segundos, 16:9, usando tres referencias: la imagen 1 aporta la identidad del personaje, la imagen 2 aporta el lugar y el audio 1 aporta la voz. Haz que el personaje camine desde el primer plano hacia el lugar de referencia, gire hacia la cámara y diga una frase breve y natural con la voz de referencia. Conserva rostro, pelo, ropa, escala, relación espacial y voz durante todo el clip. Usa un movimiento lateral lento que se convierta en un acercamiento suave durante la frase. Iguala luz y perspectiva, añade ambiente y pasos. Sin deriva de identidad, personas extra, texto ni marca de agua."
+    },
+    "5": {
+      "title": "Prueba narrativa vertical con lógica de cámara deliberada",
+      "description": "Reconstrucción basada en una comparación vertical con el mismo prompt: un personaje, una escalada clara y una cámara que sirve a la historia en vez de perseguir el espectáculo.",
+      "content": "Crea una prueba narrativa vertical de 15 segundos, 9:16. Empieza con un plano medio de un mensajero bajo un letrero parpadeante durante la noche. De 0 a 4 segundos, mantén la tensión con un acercamiento lento y tráfico lejano. De 4 a 8, una segunda figura cruza el fondo; desplaza la cámara solo lo suficiente para revelar la reacción. De 8 a 12, retrocede mientras el mensajero corre por un pasaje estrecho, conservando la chaqueta roja y el pavimento mojado. De 12 a 15, sube a una vista cenital compacta de la salida y el amanecer. Mantén dirección, identidad, luz y geografía. Usa pasos, tela, lluvia y un pulso musical sutil. Sin cortes aleatorios, texto ni marca de agua."
+    },
+    "6": {
+      "title": "Escena de acceso temprano con audio nativo y señales temporizadas",
+      "description": "Reconstrucción basada en una publicación de acceso temprano que menciona texto a vídeo, imagen a vídeo, 1080p, 30 segundos y sonido nativo, tratando el audio como parte del brief.",
+      "content": "Crea una escena cinematográfica de 30 segundos, 16:9, desde la imagen adjunta de un ciclista detenido en una carretera costera vacía. Conserva al ciclista, la geometría de la bicicleta, el horizonte y la hora del día. Empieza con viento natural y mar distante mientras la cámara hace un travelling lateral lento. A los 8 segundos, avanza: las ruedas, la chaqueta suelta y el agua de la carretera deben responder con peso creíble. A los 18 segundos, pasa a un seguimiento bajo mientras el sol atraviesa las nubes. Genera audio nativo de neumáticos, cadena, viento, gaviotas y una elevación musical suave. Sin subtítulos, logotipos, deriva facial ni bucles artificiales."
+    },
+    "7": {
+      "title": "Revelación de entorno de estilo demo oficial con sonido nativo",
+      "description": "Reconstrucción claramente etiquetada a partir de una publicación comunitaria que identifica su vídeo como demo oficial de Wan 3.0, sin convertir especificaciones no verificadas en hechos.",
+      "content": "Crea una revelación cinematográfica de entorno de 30 segundos, 16:9. Empieza en un interior silencioso con una persona que abre una ventana alta al anochecer. Sigue el gesto con un acercamiento manual lento y pasa al exterior, hacia un paisaje costero amplio con nubes, luces lejanas y viento visible en una tela cercana. Mantén constante a la persona y la arquitectura mientras el mundo se abre. Usa ambiente interior, viento, aves, oleaje y una subida orquestal sobria. Deja respirar el plano general final. Prioriza continuidad espacial, luz física y un recorrido de cámara legible. Sin texto, subtítulos, logotipos ni etiquetas técnicas inventadas."
+    }
+  },
+  "pt": {
+    "1": {
+      "title": "Boxe numa arena chuvosa com coreografia legível",
+      "description": "Um briefing de ação de 17 segundos que separa duas lutadoras, coreografa cada troca e usa chuva, poças, câmara e continuidade para manter o duelo claro.",
+      "content": "Crie uma sequência de boxe cinematográfica de 17 segundos, 16:9 e realismo 3D, com duas lutadoras adultas numa arena circular de pedra em ruínas à noite. Mantenha rostos, corpos, roupas e posições consistentes. Use apenas punhos, bloqueios, defesas, esquivas e trabalho de pés. Comece com um plano geral baixo, passe para um travelling lateral durante a troca, inclua uma breve esquiva em câmara lenta e termine com uma meia-órbita controlada depois de um uppercut limpo. Chuva leve, poças refletoras, luar frio, tochas quentes, suor e gotas realistas. Sem diálogo, legendas, música, armas, poderes, erros anatómicos, personagens duplicadas ou marca de água."
+    },
+    "2": {
+      "title": "Combate de lança em sete planos com direção de ecrã bloqueada",
+      "description": "Um prompt de origem para um duelo de animação cel em sete planos que fixa a geografia do ecrã, os vetores de ação, a energia por cores, as pausas de impacto e a continuidade.",
+      "content": "Crie uma luta de 15 segundos, 16:9, em animação 2D desenhada à mão e dividida em sete planos. Uma lutadora pequena com lança começa à esquerda e um lutador enorme começa à direita; mantenha esse eixo de câmara durante todo o clipe. Use energia ciano para ela e laranja-incandescente para ele. Construa antecipação, uma laje lançada, um salto sobre destroços, uma escada de fragmentos suspensos, um breve golpe em câmara lenta, um grande plano dos olhos e um golpe final de lança com meio beat de silêncio e pausa de impacto. Preserve designs, rostos, feridas, danos na arena, física pesada e exatamente sete planos. Sem planos extra, texto, legendas, marca de água ou corpos fundidos."
+    },
+    "3": {
+      "title": "Abertura de drama televisivo com uma única revelação visual",
+      "description": "Reconstrução transparente da lógica de planos de uma demonstração de abertura televisiva do Wan 3.0: estabelecer o lugar, revelar uma personagem e terminar num beat motivado.",
+      "content": "Crie uma abertura de drama televisivo de 30 segundos, 16:9 e num único mundo visual coerente. Comece com um plano geral calmo ao amanhecer e aproxime-se de uma personagem que atravessa uma rua urbana molhada. Corte apenas quando o beat narrativo mudar: um reflexo revela uma segunda figura, a câmara acompanha o protagonista sob um toldo e um push-in lento termina quando ele repara num objeto na mão. Preserve roupa, clima, arquitetura e direção no ecrã. Use cor natural contida, passos, chuva no metal, trânsito distante e uma subida musical baixa na revelação final. Sem legendas, logótipos ou reinícios arbitrários."
+    },
+    "4": {
+      "title": "Personagem, local e voz montados a partir de referências separadas",
+      "description": "Um briefing multimodal reutilizável derivado da nota de capacidades da PixelDojo: atribui identidade, cenário e voz a entradas diferentes e explicita as regras de continuidade.",
+      "content": "Crie uma cena cinematográfica de 20 segundos, 16:9, usando três referências: a imagem 1 fornece a identidade, a imagem 2 fornece o local e o áudio 1 fornece a voz. Faça a personagem caminhar do primeiro plano para o local de referência, virar-se para a câmara e dizer uma frase curta e natural com a voz de referência. Preserve rosto, cabelo, roupa, escala, relação espacial e identidade vocal. Use um movimento lateral lento que se transforma num push-in suave durante a frase. Iguale luz e perspetiva, adicione ambiente e passos. Sem deriva de identidade, pessoas extra, texto ou marca de água."
+    },
+    "5": {
+      "title": "Teste narrativo vertical com lógica de câmara deliberada",
+      "description": "Reconstrução baseada numa comparação vertical com o mesmo prompt: uma personagem, uma escalada clara e uma câmara que serve a história em vez de perseguir o espetáculo.",
+      "content": "Crie um teste narrativo vertical de 15 segundos, 9:16. Comece num plano médio de um estafeta sob um letreiro intermitente à noite. De 0 a 4 segundos, mantenha a tensão com um push-in lento e trânsito distante. De 4 a 8, uma segunda figura atravessa o fundo; faça apenas um pan suficiente para revelar a reação do estafeta. De 8 a 12, recue enquanto ele corre por uma passagem estreita, preservando o casaco vermelho e o pavimento molhado. De 12 a 15, suba para uma revelação aérea compacta da saída e do amanhecer. Mantenha direção, identidade, luz e geografia. Use passos, tecido, chuva e um pulso musical discreto. Sem cortes aleatórios, texto ou marca de água."
+    },
+    "6": {
+      "title": "Cena de acesso antecipado com áudio nativo e marcas temporais",
+      "description": "Reconstrução baseada numa publicação de acesso antecipado que menciona texto para vídeo, imagem para vídeo, 1080p, 30 segundos e som nativo, tratando o áudio como parte do briefing.",
+      "content": "Crie uma cena cinematográfica de 30 segundos, 16:9, a partir da imagem de um ciclista parado numa estrada costeira vazia. Preserve o ciclista, a geometria da bicicleta, o horizonte e a hora do dia. Comece com vento natural e mar distante enquanto a câmara faz um travelling lateral lento. Aos 8 segundos, o ciclista avança; rodas, casaco solto e água da estrada devem responder com peso credível. Aos 18 segundos, passe para um travelling baixo enquanto o sol rompe as nuvens. Gere áudio nativo de pneus, corrente, vento, gaivotas e uma elevação musical suave. Sem legendas, logótipos, deriva facial ou loop artificial."
+    },
+    "7": {
+      "title": "Revelação de ambiente em estilo demo oficial com som nativo",
+      "description": "Reconstrução claramente identificada a partir de uma publicação comunitária que chama ao vídeo uma demo oficial do Wan 3.0, sem transformar especificações não verificadas em factos.",
+      "content": "Crie uma revelação cinematográfica de ambiente de 30 segundos, 16:9. Comece num interior silencioso com uma pessoa a abrir uma janela alta ao anoitecer. Siga o gesto com um push-in manual lento e passe para um vasto litoral exterior com nuvens, luzes distantes e vento visível num tecido próximo. Mantenha a pessoa e a arquitetura consistentes enquanto o mundo se abre. Use ambiente interior, vento, aves, ondas e uma subida orquestral contida. Deixe o plano geral final respirar. Priorize continuidade espacial, luz física e um percurso de câmara legível. Sem texto, legendas, logótipos ou rótulos técnicos inventados."
+    }
+  },
+  "it": {
+    "1": {
+      "title": "Boxe in un'arena bagnata dalla pioggia con coreografia leggibile",
+      "description": "Un brief d'azione di 17 secondi che separa due combattenti, coreografa ogni scambio e usa pioggia, pozzanghere, camera e continuità per rendere chiaro il duello.",
+      "content": "Crea una sequenza di boxe cinematografica di 17 secondi, 16:9 e realismo 3D, con due combattenti adulte in un'arena circolare di pietra in rovina, di notte. Mantieni coerenti volti, corpi, abiti e posizioni. Usa solo pugni, parate, deviazioni, schivate e gioco di gambe. Inizia con un campo largo dal basso, passa a un tracking laterale durante lo scambio, aggiungi una breve schivata al rallentatore e chiudi con una mezza orbita controllata dopo un uppercut netto. Pioggia leggera, pozzanghere riflettenti, luna fredda, torce calde, sudore e gocce realistiche. Niente dialoghi, sottotitoli, musica, armi, poteri, errori anatomici, personaggi duplicati o watermark."
+    },
+    "2": {
+      "title": "Duello con lancia in sette inquadrature e asse dello schermo bloccato",
+      "description": "Un prompt sorgente per un duello in animazione cel a sette inquadrature che fissa la geografia dello schermo, i vettori d'azione, i colori dell'energia, gli hit-stop e la continuità.",
+      "content": "Crea un combattimento di 15 secondi, 16:9, in animazione 2D disegnata a mano e divisa in sette inquadrature. Una combattente minuta con lancia parte a sinistra e un enorme picchiatore a destra; conserva questo asse di camera per tutto il clip. Usa energia ciano per lei e arancione incandescente per lui. Costruisci anticipazione, una lastra lanciata, un salto sui detriti, una scala di frammenti sospesi, un breve colpo al rallentatore, un primo piano degli occhi e un affondo finale con mezzo beat di silenzio e hit-stop. Mantieni design, volti, ferite, danni all'arena, fisica pesante ed esattamente sette inquadrature. Niente inquadrature extra, testo, sottotitoli, watermark o corpi fusi."
+    },
+    "3": {
+      "title": "Apertura da drama televisivo con un'unica rivelazione visiva",
+      "description": "Ricostruzione trasparente della logica di ripresa di una demo di apertura televisiva Wan 3.0: stabilire il luogo, rivelare un personaggio e chiudere su un beat motivato.",
+      "content": "Crea un'apertura da drama televisivo di 30 secondi, 16:9, in un unico mondo visivo coerente. Inizia con un campo largo tranquillo all'alba e avanza verso un personaggio che attraversa una strada urbana bagnata. Taglia solo quando cambia il beat narrativo: un riflesso rivela una seconda figura, la camera segue il protagonista sotto una tettoia e un lento push-in termina quando nota un oggetto nella mano. Mantieni abiti, meteo, architettura e direzione dello sguardo. Usa colori naturali sobri, passi, pioggia sul metallo, traffico lontano e un basso crescendo musicale sulla rivelazione finale. Niente sottotitoli, loghi o reset arbitrari della scena."
+    },
+    "4": {
+      "title": "Personaggio, luogo e voce assemblati da riferimenti separati",
+      "description": "Un brief multimodale riutilizzabile derivato dalla nota di capacità di PixelDojo: assegna identità, ambiente e voce a input distinti e dichiara le regole di continuità.",
+      "content": "Crea una scena cinematografica di 20 secondi, 16:9, usando tre riferimenti: l'immagine 1 fornisce l'identità del personaggio, l'immagine 2 il luogo e l'audio 1 la voce. Fai camminare il personaggio dal primo piano verso l'ambiente di riferimento, poi girare verso la camera e pronunciare una frase breve e naturale con la voce di riferimento. Mantieni volto, capelli, abiti, scala, rapporto spaziale e identità vocale per tutto il clip. Usa un lento movimento laterale che diventa un push-in morbido durante la battuta. Abbina luce e prospettiva, aggiungi ambiente e passi. Niente deriva dell'identità, persone extra, testo o watermark."
+    },
+    "5": {
+      "title": "Test narrativo verticale con logica di camera intenzionale",
+      "description": "Ricostruzione basata su un confronto verticale con lo stesso prompt: un personaggio, un'escalation chiara e una camera al servizio della storia.",
+      "content": "Crea un test narrativo verticale di 15 secondi, 9:16. Inizia su un piano medio di un corriere sotto un'insegna intermittente di notte. Da 0 a 4 secondi mantieni la tensione con un lento push-in e traffico lontano. Da 4 a 8 una seconda figura attraversa lo sfondo; fai un pan appena sufficiente a rivelare la reazione del corriere. Da 8 a 12 arretra mentre corre in un passaggio stretto, preservando giacca rossa e pavimento bagnato. Da 12 a 15 sali in una compatta vista dall'alto dell'uscita e dell'alba. Mantieni direzione, identità, luce e geografia. Usa passi, tessuto, pioggia e un impulso musicale discreto. Niente tagli casuali, testo o watermark."
+    },
+    "6": {
+      "title": "Scena in accesso anticipato con audio nativo e cue temporizzati",
+      "description": "Ricostruzione basata su un post di accesso anticipato che cita testo-video, immagine-video, 1080p, 30 secondi e suono nativo, trattando l'audio come parte del brief.",
+      "content": "Crea una scena cinematografica di 30 secondi, 16:9, dall'immagine di un ciclista fermo su una strada costiera vuota. Mantieni ciclista, geometria della bici, orizzonte e ora del giorno. Inizia con vento naturale e mare lontano mentre la camera esegue un lento dolly laterale. A 8 secondi il ciclista parte; ruote, giacca e spruzzi devono reagire con peso credibile. A 18 secondi passa a un tracking basso mentre il sole attraversa le nuvole. Genera audio nativo di gomme, catena, vento, gabbiani e un morbido sollevamento musicale all'orizzonte. Niente sottotitoli, loghi, deriva del volto o loop artificiale."
+    },
+    "7": {
+      "title": "Rivelazione d'ambiente in stile demo ufficiale con suono nativo",
+      "description": "Ricostruzione dichiarata a partire da un post della community che identifica il video come demo ufficiale di Wan 3.0, senza trasformare specifiche non verificate in fatti.",
+      "content": "Crea una rivelazione cinematografica d'ambiente di 30 secondi, 16:9. Inizia in un interno silenzioso con una persona che apre una finestra alta al crepuscolo. Segui il gesto con un lento push-in a mano e passa all'esterno, verso un ampio paesaggio costiero con nuvole, luci lontane e vento visibile in un tessuto vicino. Mantieni persona e architettura coerenti mentre il mondo si apre. Usa ambiente interno, vento, uccelli, onde e una contenuta salita orchestrale. Lascia respirare il campo largo finale. Dai priorità a continuità spaziale, luce fisica e percorso di camera leggibile. Niente testo, sottotitoli, loghi o etichette tecniche inventate."
+    }
+  },
+  "de": {
+    "1": {
+      "title": "Boxkampf in einer regennassen Arena mit klarer Choreografie",
+      "description": "Ein 17-sekündiges Action-Briefing, das zwei Kämpferinnen trennt, jeden Austausch choreografiert und Regen, Pfützen, Kamera und Kontinuität für einen lesbaren Zweikampf nutzt.",
+      "content": "Erzeuge eine 17-sekündige, 16:9 große, filmische Boxsequenz im 3D-Realismus mit zwei erwachsenen Kämpferinnen in einer verfallenen runden Steinarena bei Nacht. Gesichter, Körper, Kleidung und Positionen bleiben konsistent. Nur Fäuste, Blocks, Paraden, Ausweichbewegungen und Fußarbeit. Beginne mit einer tiefen Totalen, wechsle im Austausch zu seitlichem Tracking, setze eine sehr kurze Zeitlupe beim Ausweichen ein und ende nach einem sauberen Uppercut in einer kontrollierten Halbkreisfahrt. Leichter Regen, spiegelnde Pfützen, kaltes Mondlicht, warme Fackeln, realistischer Schweiß und Wasser. Kein Dialog, keine Untertitel, Musik, Waffen, Kräfte, Anatomiefehler, Doppelgänger oder Wasserzeichen."
+    },
+    "2": {
+      "title": "Sieben-Szenen-Speerduell mit fixierter Bildschirmrichtung",
+      "description": "Ein Quellenprompt für ein siebenteiliges Cel-Animationsduell mit festgelegter Bildschirmgeografie, Aktionsvektoren, Farbcodierung, Hit-Stops und Schnittkontinuität.",
+      "content": "Erzeuge einen 15-sekündigen, 16:9 großen Kampf in sieben Einstellungen als handgezeichnete 2D-Cel-Animation. Eine kleine Speerkämpferin beginnt links, ein massiver Schläger rechts; die Kameraachse bleibt durchgehend gleich. Cyanfarbene Energie gehört der Speerkämpferin, glühendes Orange dem Schläger. Zeige Antizipation, eine geworfene Steinplatte, einen Sprung über Trümmer, eine Treppe aus schwebenden Brocken, einen kurzen Zeitlupen-Backhand, eine Nahaufnahme der Augen und den finalen Speerstich mit einem halben Beat Stille und Hit-Stop. Designs, Gesichter, Verletzung, Arenaschäden, schwere Trümmerphysik und exakt sieben Einstellungen bewahren. Keine zusätzlichen Einstellungen, Texte, Untertitel, Wasserzeichen oder verschmolzenen Körper."
+    },
+    "3": {
+      "title": "TV-Drama-Opener mit einer einzigen visuellen Enthüllung",
+      "description": "Eine transparent markierte Rekonstruktion der Shot-Logik eines Wan-3.0-TV-Drama-Showcases: Ort etablieren, Figur enthüllen, auf einem motivierten Schlussbeat landen.",
+      "content": "Erzeuge einen 30-sekündigen, 16:9 großen TV-Drama-Opener in einer kohärenten visuellen Welt. Beginne bei Tagesanbruch mit einer ruhigen Totalen und fahre auf eine Figur zu, die durch eine regennasse Stadtstraße geht. Schneide nur bei einem neuen Storybeat: Eine Spiegelung enthüllt eine zweite Figur, die Kamera folgt dem Protagonisten unter einem Vordach und ein langsamer Push-in endet, wenn er einen Gegenstand in der Hand bemerkt. Kleidung, Wetter, Architektur und Bildschirmrichtung bleiben stabil. Gedämpfte Naturfarben, Schritte, Regen auf Metall, ferner Verkehr und ein leiser musikalischer Anstieg bei der Enthüllung. Keine Untertitel, Logos oder beliebigen Szenen-Resets."
+    },
+    "4": {
+      "title": "Figur, Ort und Stimme aus getrennten Referenzen verbinden",
+      "description": "Ein wiederverwendbares multimodales Briefing nach PixelDojos Fähigkeitsnotiz: Identität, Schauplatz und Stimme kommen aus getrennten Eingaben und werden durch Kontinuitätsregeln verbunden.",
+      "content": "Erzeuge eine 20-sekündige, 16:9 große Filmszene aus drei Referenzen: Bild 1 liefert die Identität, Bild 2 den Ort und Audio 1 die Stimme. Die Figur geht aus dem Vordergrund in den Referenzort, dreht sich zur Kamera und spricht einen kurzen natürlichen Satz mit der Referenzstimme. Gesicht, Haare, Kleidung, Maßstab, räumliche Beziehung und Stimmidentität bleiben durchgehend erhalten. Eine langsame seitliche Kamerafahrt wird während des Satzes zu einem sanften Push-in. Licht und Perspektive der Referenzen angleichen, Raumton und Schritte ergänzen. Keine Identitätsdrift, zusätzlichen Personen, Texte oder Wasserzeichen."
+    },
+    "5": {
+      "title": "Vertikaler Story-Test mit bewusster Kameralogik",
+      "description": "Eine Rekonstruktion aus einem vertikalen Same-Prompt-Vergleich: eine Figur, eine klare Steigerung und eine Kamera, die der Geschichte statt dem Spektakel dient.",
+      "content": "Erzeuge einen 15-sekündigen, vertikalen Story-Test im Format 9:16. Beginne mit einer Halbtotalen eines Kuriers unter einem flackernden Straßenschild bei Nacht. 0–4 Sekunden: Spannung mit langsamem Push-in und fernem Verkehr halten. 4–8: Eine zweite Figur überquert den Hintergrund; nur so weit schwenken, dass die Reaktion des Kuriers sichtbar wird. 8–12: rückwärts fahren, während der Kurier durch eine enge Passage läuft; rote Jacke und nasser Boden bleiben erhalten. 12–15: zu einer kompakten Draufsicht auf Ausgang und Morgenlicht steigen. Richtung, Identität, Licht und Geografie stabil halten. Schritte, Stoff, Regen und ein zurückhaltender Musikimpuls. Keine zufälligen Schnitte, Texte oder Wasserzeichen."
+    },
+    "6": {
+      "title": "Early-Access-Szene mit nativem Ton und getakteten Klangsignalen",
+      "description": "Eine Rekonstruktion nach einem Early-Access-Post, der Text-zu-Video, Bild-zu-Video, 1080p, 30 Sekunden und nativen Ton nennt; Audio wird als Teil des Briefings behandelt.",
+      "content": "Erzeuge eine 30-sekündige, 16:9 große Filmszene aus dem angehängten Standbild eines Radfahrers an einer leeren Küstenstraße. Radfahrer, Fahrradgeometrie, Horizont und Tageszeit bleiben erhalten. Beginne mit natürlichem Wind und fernem Meer, während die Kamera langsam seitlich fährt. Nach 8 Sekunden fährt der Radfahrer los; Räder, lose Jacke und Spritzwasser reagieren mit glaubwürdigem Gewicht. Nach 18 Sekunden in eine niedrige Tracking-Perspektive wechseln, während die Sonne durch die Wolken bricht. Nativen Ton aus Reifen, Kette, Wind, Möwen und einem leisen musikalischen Anheben erzeugen. Keine Untertitel, Logos, Gesichtsdrift oder künstliche Schleife."
+    },
+    "7": {
+      "title": "Umgebungsenthüllung im Stil einer offiziellen Demo mit nativem Ton",
+      "description": "Eine klar gekennzeichnete Rekonstruktion aus einem Community-Post, der das Video als offizielle Wan-3.0-Demo bezeichnet, ohne ungeprüfte Spezifikationen als Fakten auszugeben.",
+      "content": "Erzeuge eine 30-sekündige, 16:9 große filmische Umgebungsenthüllung. Beginne in einem stillen Innenraum, in dem eine Person bei blauer Stunde ein hohes Fenster öffnet. Folge der Bewegung mit einem langsamen Handheld-Push und gehe nach draußen in eine weite Küstenlandschaft mit Wolken, fernen Lichtern und sichtbarem Wind in einem nahen Stoff. Person und Architektur bleiben konstant, während sich die Welt öffnet. Innenraumton geht in Wind, Vögel, Brandung und einen zurückhaltenden Orchesteranstieg über. Die finale Totale mehrere Sekunden atmen lassen. Räumliche Kontinuität, physisches Licht und einen lesbaren Kamerapfad priorisieren. Kein Text, keine Untertitel, Logos oder erfundene Techniklabels."
+    }
+  },
+  "fr": {
+    "1": {
+      "title": "Combat de boxe sous la pluie dans une arène lisible",
+      "description": "Un brief d'action de 17 secondes qui sépare deux combattantes, chorégraphie chaque échange et utilise pluie, flaques, caméra et continuité pour garder le duel clair.",
+      "content": "Créez une séquence de boxe cinématographique de 17 secondes, au format 16:9 et en réalisme 3D, avec deux combattantes adultes dans une arène circulaire en pierre en ruine, de nuit. Gardez leurs visages, corps, tenues et positions cohérents. Utilisez uniquement les poings, les parades, les esquives et le jeu de jambes. Commencez par un plan large bas, passez à un suivi latéral pendant l'échange, ajoutez une très brève esquive au ralenti et terminez par une demi-orbite contrôlée après un uppercut net. Pluie légère, flaques réfléchissantes, lune froide, torches chaudes, sueur et gouttes réalistes. Aucun dialogue, sous-titre, musique, arme, pouvoir, défaut anatomique, doublon ou filigrane."
+    },
+    "2": {
+      "title": "Duel à la lance en sept plans avec axe écran verrouillé",
+      "description": "Un prompt source pour un duel en animation cel de sept plans qui fixe la géographie de l'écran, les vecteurs d'action, les couleurs d'énergie, les arrêts sur impact et la continuité.",
+      "content": "Créez un combat de 15 secondes, au format 16:9, en animation 2D dessinée à la main et découpée en sept plans. Une combattante petite armée d'une lance commence à gauche et un colosse commence à droite ; gardez cet axe de caméra pendant tout le clip. Utilisez une énergie cyan pour elle et orange braise pour lui. Construisez l'anticipation, une dalle lancée, un saut sur les débris, un escalier de fragments en suspension, un bref revers au ralenti, un gros plan sur les yeux et une estocade finale avec un demi-temps de silence et un arrêt sur impact. Préservez les designs, visages, blessures, dégâts de l'arène, poids des débris et exactement sept plans. Aucun plan supplémentaire, texte, sous-titre, filigrane ou corps fusionné."
+    },
+    "3": {
+      "title": "Ouverture de drama télévisé avec une seule révélation visuelle",
+      "description": "Reconstruction transparente de la logique de plans d'une démonstration d'ouverture télévisée Wan 3.0 : installer le lieu, révéler un personnage, conclure sur un beat motivé.",
+      "content": "Créez une ouverture de drama télévisé de 30 secondes, au format 16:9, dans un monde visuel cohérent. Commencez par un plan large calme à l'aube, puis avancez vers un personnage qui marche dans une rue urbaine mouillée. Ne coupez qu'au changement de beat : un reflet révèle une seconde silhouette, la caméra suit le protagoniste sous un auvent et un lent push-in se termine lorsqu'il remarque un objet dans sa main. Préservez tenue, météo, architecture et direction à l'écran. Couleurs naturelles retenues, pas, pluie sur le métal, circulation lointaine et légère montée musicale lors de la révélation. Aucun sous-titre, logo ou réinitialisation arbitraire."
+    },
+    "4": {
+      "title": "Personnage, lieu et voix assemblés depuis des références séparées",
+      "description": "Un brief multimodal réutilisable inspiré de la note de capacités de PixelDojo : identité, décor et voix viennent d'entrées distinctes, avec des règles de continuité explicites.",
+      "content": "Créez une scène cinématographique de 20 secondes, au format 16:9, à partir de trois références : l'image 1 fournit l'identité du personnage, l'image 2 le lieu et l'audio 1 la voix. Faites marcher le personnage du premier plan vers le décor de référence, se tourner vers la caméra et prononcer une phrase courte et naturelle avec la voix de référence. Préservez visage, cheveux, vêtements, échelle, relation spatiale et identité vocale pendant tout le clip. Utilisez un mouvement latéral lent qui devient un push-in doux pendant la phrase. Faites correspondre lumière et perspective, ajoutez ambiance et pas. Aucun glissement d'identité, figurant supplémentaire, texte ou filigrane."
+    },
+    "5": {
+      "title": "Test narratif vertical avec logique de caméra maîtrisée",
+      "description": "Reconstruction issue d'une comparaison verticale avec le même prompt : un personnage, une montée claire et une caméra au service du récit plutôt que du spectacle.",
+      "content": "Créez un test narratif vertical de 15 secondes, au format 9:16. Commencez sur un plan moyen d'un coursier sous une enseigne clignotante, la nuit. De 0 à 4 secondes, gardez la tension avec un lent push-in et la circulation au loin. De 4 à 8, une seconde silhouette traverse le fond ; panoramique juste assez pour révéler la réaction du coursier. De 8 à 12, reculez alors qu'il court dans un passage étroit, en conservant la veste rouge et le sol mouillé. De 12 à 15, montez vers une révélation aérienne compacte de la sortie et de l'aube. Gardez direction, identité, lumière et géographie stables. Pas, tissu, pluie et impulsion musicale discrète. Aucun cut aléatoire, texte ou filigrane."
+    },
+    "6": {
+      "title": "Scène en accès anticipé avec audio natif et repères temporels",
+      "description": "Reconstruction fondée sur un post d'accès anticipé mentionnant texte-vers-vidéo, image-vers-vidéo, 1080p, 30 secondes et son natif ; l'audio fait partie du brief.",
+      "content": "Créez une scène cinématographique de 30 secondes, 16:9, à partir de l'image d'un cycliste arrêté sur une route côtière vide. Préservez le cycliste, la géométrie du vélo, l'horizon et l'heure. Commencez avec le vent naturel et la mer lointaine pendant un travelling latéral lent. À 8 secondes, le cycliste avance ; roues, veste flottante et éclaboussures doivent réagir avec un poids crédible. À 18 secondes, passez en suivi bas tandis que le soleil traverse les nuages. Générez un audio natif de pneus, chaîne, vent, mouettes et une légère envolée musicale sur la révélation de l'horizon. Aucun sous-titre, logo, dérive du visage ou boucle artificielle."
+    },
+    "7": {
+      "title": "Révélation d'environnement façon démo officielle avec son natif",
+      "description": "Reconstruction explicitement signalée à partir d'un post communautaire qui identifie la vidéo comme une démo officielle de Wan 3.0, sans transformer des spécifications non vérifiées en faits.",
+      "content": "Créez une révélation d'environnement cinématographique de 30 secondes, au format 16:9. Commencez dans un intérieur silencieux où une personne ouvre une grande fenêtre à l'heure bleue. Suivez le geste par un lent push à l'épaule, puis sortez vers un vaste paysage côtier avec nuages, lumières lointaines et vent visible dans un tissu proche. Gardez la personne et l'architecture cohérentes pendant que le monde s'ouvre. Faites passer le son intérieur au vent, aux oiseaux, aux vagues et à une montée orchestrale retenue. Laissez respirer le plan large final. Priorité à la continuité spatiale, à la lumière physique et à un trajet de caméra lisible. Aucun texte, sous-titre, logo ou label technique inventé."
+    }
+  },
+  "ar": {
+    "1": {
+      "title": "ملاكمة في حلبة مبللة بالمطر مع حركة واضحة",
+      "description": "موجز حركة مدته 17 ثانية يفصل بين مقاتلتين وينظم كل تبادل، ويستخدم المطر والبرك والكاميرا والاستمرارية للحفاظ على وضوح المبارزة.",
+      "content": "أنشئ تسلسل ملاكمة سينمائيًا مدته 17 ثانية بنسبة 16:9 وبواقعية ثلاثية الأبعاد، مع مقاتلتين بالغتين داخل حلبة حجرية دائرية متهدمة ليلًا. حافظ على ثبات الوجه والجسد والملابس والمواقع. استخدم اللكمات والصدّات والمراوغات وحركة القدمين فقط. ابدأ بلقطة واسعة منخفضة، وانتقل إلى تتبع جانبي أثناء التبادل، وأضف مراوغة قصيرة بالحركة البطيئة، ثم اختم بنصف دوران مضبوط بعد ضربة علوية واضحة. مطر خفيف، برك عاكسة، ضوء قمر بارد، مشاعل دافئة، وعرق وقطرات واقعية. بلا حوار أو ترجمة أو موسيقى أو أسلحة أو قوى أو أخطاء تشريحية أو شخصيات مكررة أو علامة مائية."
+    },
+    "2": {
+      "title": "قتال رمح من سبع لقطات مع تثبيت اتجاه الشاشة",
+      "description": "موجّه مصدر لمبارزة رسوم خلوية من سبع لقطات يثبت جغرافيا الشاشة ومتجهات الحركة وألوان الطاقة وتوقفات الاصطدام والاستمرارية بين اللقطات.",
+      "content": "أنشئ قتالًا مدته 15 ثانية بنسبة 16:9 بأسلوب رسوم ثنائية الأبعاد مرسومة يدويًا ومقسمة إلى سبع لقطات. تبدأ المحاربة الصغيرة ذات الرمح من يسار الشاشة ويبدأ المقاتل الضخم من اليمين؛ حافظ على محور الكاميرا نفسه طوال المقطع. استخدم طاقة سماوية للمحاربة وطاقة برتقالية متوهجة للمقاتل. ابنِ التمهيد، ولوحًا حجريًا مقذوفًا، وقَفزة فوق الحطام، وسلّمًا من القطع الطائرة، وضربة ظهر قصيرة بالحركة البطيئة، ولقطة قريبة للعينين، وطعنة رمح نهائية مع نصف نبضة صمت وتوقف اصطدام. حافظ على التصميم والوجوه والإصابات وضرر الحلبة وفيزياء الحطام وعدد اللقطات السبع. بلا لقطات إضافية أو نص أو ترجمة أو علامة مائية أو أجساد مندمجة."
+    },
+    "3": {
+      "title": "افتتاحية دراما تلفزيونية مع كشف بصري واحد",
+      "description": "إعادة بناء معلنة بوضوح لمنطق اللقطات في عرض افتتاحية تلفزيونية لـ Wan 3.0: تثبيت المكان ثم كشف الشخصية والهبوط على إيقاع نهائي مبرر.",
+      "content": "أنشئ افتتاحية دراما تلفزيونية مدتها 30 ثانية بنسبة 16:9 داخل عالم بصري متماسك. ابدأ بلقطة واسعة هادئة عند الفجر، ثم اقترب من شخصية تمشي في شارع حضري مبلل. لا تقطع إلا عند تغير الإيقاع السردي: يكشف انعكاس شخصية ثانية، وتتبع الكاميرا البطل تحت مظلة، وينتهي اقتراب بطيء عندما يلاحظ شيئًا في يده. حافظ على الملابس والطقس والهندسة واتجاه الشاشة. استخدم ألوانًا طبيعية هادئة وأصوات خطوات ومطر على المعدن ومرورًا بعيدًا وارتفاعًا موسيقيًا منخفضًا عند الكشف. بلا ترجمة أو شعارات أو إعادة ضبط عشوائية للمشهد."
+    },
+    "4": {
+      "title": "تجميع الشخصية والمكان والصوت من مراجع منفصلة",
+      "description": "موجز متعدد الوسائط قابل لإعادة الاستخدام مستمد من ملاحظة قدرات PixelDojo: تُسند الهوية والموقع والصوت إلى مدخلات مختلفة مع توضيح قواعد الاستمرارية.",
+      "content": "أنشئ مشهدًا سينمائيًا مدته 20 ثانية بنسبة 16:9 من ثلاثة مراجع: الصورة 1 تمنح هوية الشخصية، والصورة 2 تمنح الموقع، والصوت 1 يمنح صوت الكلام. اجعل الشخصية تمشي من المقدمة إلى الموقع المرجعي، ثم تلتفت إلى الكاميرا وتقول جملة قصيرة طبيعية بالصوت المرجعي. حافظ على الوجه والشعر والملابس والمقياس والعلاقة المكانية والهوية الصوتية طوال المقطع. استخدم حركة جانبية بطيئة تتحول إلى اقتراب لطيف أثناء الجملة. طابق الإضاءة والمنظور وأضف صوت المكان والخطوات. بلا تغير للهوية أو أشخاص إضافيين أو نص أو علامة مائية."
+    },
+    "5": {
+      "title": "اختبار قصة عمودي بمنطق كاميرا مقصود",
+      "description": "إعادة بناء من مقارنة عمودية بنفس الموجّه: شخصية واحدة وتصاعد واضح وكاميرا تخدم القصة بدل مطاردة الاستعراض.",
+      "content": "أنشئ اختبارًا سرديًا عموديًا مدته 15 ثانية بنسبة 9:16. ابدأ بلقطة متوسطة لساعي بريد تحت لافتة شارع وامضة ليلًا. من 0 إلى 4 ثوانٍ حافظ على التوتر باقتراب بطيء ومرور بعيد. من 4 إلى 8 تعبر شخصية ثانية الخلفية؛ حرّك الكاميرا بقدر يكشف رد فعل الساعي فقط. من 8 إلى 12 تراجع بينما يركض الساعي في ممر ضيق، مع الحفاظ على السترة الحمراء والأرض المبتلة. من 12 إلى 15 اصعد إلى كشف علوي صغير للمخرج والفجر. ثبّت الاتجاه والهوية والضوء والجغرافيا. استخدم خطوات وحركة قماش ومطرًا ونبضة موسيقية هادئة. بلا قطع عشوائية أو نص أو علامة مائية."
+    },
+    "6": {
+      "title": "مشهد وصول مبكر بصوت أصلي وإشارات زمنية",
+      "description": "إعادة بناء مستندة إلى منشور وصول مبكر يذكر النص إلى الفيديو والصورة إلى الفيديو و1080p و30 ثانية والصوت الأصلي، مع اعتبار الصوت جزءًا من الموجز.",
+      "content": "أنشئ مشهدًا سينمائيًا مدته 30 ثانية بنسبة 16:9 انطلاقًا من الصورة المرفقة لسائق دراجة ينتظر على طريق ساحلي فارغ. حافظ على السائق وهندسة الدراجة والأفق ووقت اليوم. ابدأ برياح طبيعية وبحر بعيد بينما تتحرك الكاميرا جانبيًا ببطء. عند الثانية 8 ينطلق السائق؛ يجب أن تستجيب العجلات والسترة الفضفاضة ورذاذ الطريق بوزن مقنع. عند الثانية 18 انتقل إلى تتبع منخفض بينما تخترق الشمس السحب. أنشئ صوتًا أصليًا للإطارات والسلسلة والرياح والنوارس وارتفاع موسيقي ناعم عند كشف الأفق. بلا ترجمة أو شعارات أو تغير للوجه أو حلقة مصطنعة."
+    },
+    "7": {
+      "title": "كشف بيئة بأسلوب عرض رسمي مع صوت أصلي",
+      "description": "إعادة بناء موسومة بوضوح اعتمادًا على منشور مجتمعي يعرّف الفيديو بأنه عرض رسمي لـ Wan 3.0، من دون تحويل المواصفات غير المؤكدة إلى حقائق.",
+      "content": "أنشئ كشفًا سينمائيًا للبيئة مدته 30 ثانية بنسبة 16:9. ابدأ في داخل هادئ تفتح فيه شخصية نافذة طويلة عند الساعة الزرقاء. تابع الحركة باقتراب يدوي بطيء، ثم اخرج إلى منظر ساحلي واسع مع سحب وأضواء بعيدة ورياح ظاهرة في قماش قريب. حافظ على الشخصية والهندسة بينما ينفتح العالم. انتقل بالصوت من جو الغرفة إلى الرياح والطيور والأمواج وارتفاع أوركسترالي هادئ. دع اللقطة الواسعة الأخيرة تتنفس عدة ثوانٍ. أعط الأولوية للاستمرارية المكانية والضوء الفيزيائي ومسار الكاميرا الواضح. بلا نص أو ترجمة أو شعارات أو تسميات تقنية مختلقة."
+    }
+  }
+}

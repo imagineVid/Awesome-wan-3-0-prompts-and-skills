@@ -1,0 +1,64 @@
+# [INPUT]: Receives an approved prompt-submission issue and the repository's local data pipeline.
+# [OUTPUT]: Adds the verified Wan 3.0 Video record, regenerates the English view, and reports completion.
+# [POS]: Publication bridge between GitHub editorial review and the generated collection.
+# [PROTOCOL]: 变更时更新此头部，然后检查 AGENTS.md
+name: Publish Approved Wan 3.0 Video Prompt
+
+on:
+  issues:
+    types: [labeled]
+
+permissions:
+  issues: write
+  contents: write
+
+jobs:
+  sync:
+    # Publication requires both the explicit approval event and the submission marker.
+    if: |
+      github.event.label.name == 'approved' &&
+      contains(join(github.event.issue.labels.*.name, ' '), 'prompt-submission')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: pnpm/action-setup@v6
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: 'pnpm'
+          cache-dependency-path: pnpm-lock.yaml
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Normalize approved Wan 3.0 Video submission
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: pnpm run sync
+
+      - name: Regenerate the collection view
+        run: pnpm run generate
+
+      - name: Commit verified prompt data and collection views
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/prompts.json README*.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "docs: sync approved prompt [skip ci]"
+          git push
+
+      - name: Comment on issue
+        uses: actions/github-script@v9
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: 'Your Wan 3.0 Video case passed editorial review. It has been added to the local data set and the generated collection view was refreshed. Thank you for contributing.'
+            })

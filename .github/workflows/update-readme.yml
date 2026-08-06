@@ -1,0 +1,50 @@
+# [INPUT]: Reads versioned prompt data, translations, media references, and README generators.
+# [OUTPUT]: Validates local video-case data and commits the generated English collection view.
+# [POS]: Scheduled publication check that keeps generated documentation aligned with source data.
+# [PROTOCOL]: 变更时更新此头部，然后检查 AGENTS.md
+name: Refresh Wan 3.0 Video Collection
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'  # Rebuild every four hours.
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - 'data/**'
+      - 'public/images/**'
+      - '.github/workflows/update-readme.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: pnpm/action-setup@v6
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: 'pnpm'
+          cache-dependency-path: pnpm-lock.yaml
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Validate data and generate the collection README
+        run: pnpm run generate
+
+      - name: Commit regenerated collection views
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README*.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "docs: auto-update README [skip ci]"
+          git push

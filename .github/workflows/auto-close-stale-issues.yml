@@ -1,0 +1,74 @@
+# [INPUT]: Reads inactive issues while respecting labels that require continued editorial review.
+# [OUTPUT]: Closes abandoned collection issues with a repository-specific explanation.
+# [POS]: GitHub maintenance workflow for the Wan 3.0 Video prompt collection.
+# [PROTOCOL]: 变更时更新此头部，然后检查 AGENTS.md
+name: Wan 3.0 Video Issue Housekeeping
+
+on:
+  schedule:
+    # Run daily at 00:00 UTC.
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  close-stale-issues:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Close stale issues
+        uses: actions/github-script@v9
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          retries: 3
+          script: |
+            const { data: issues } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              per_page: 100
+            });
+
+            const DAYS_INACTIVE = 3;
+            const now = new Date();
+            const msPerDay = 24 * 60 * 60 * 1000;
+
+            for (const issue of issues) {
+              // Pull requests share the issue API but are outside this workflow.
+              if (issue.pull_request) {
+                continue;
+              }
+
+              const lastUpdated = new Date(issue.updated_at);
+              const daysSinceUpdate = (now - lastUpdated) / msPerDay;
+
+              if (daysSinceUpdate >= DAYS_INACTIVE) {
+                const excludeLabels = ['keep-open', 'pinned'];
+                const hasExcludeLabel = issue.labels.some(label =>
+                  excludeLabels.includes(label.name)
+                );
+
+                if (!hasExcludeLabel) {
+                  await github.rest.issues.createComment({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    issue_number: issue.number,
+                    body: `This Wan 3.0 Video collection issue was closed after ${DAYS_INACTIVE} days without activity. Reopen it with fresh source evidence or reproduction details if the problem remains.`
+                  });
+
+                  await github.rest.issues.update({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    issue_number: issue.number,
+                    state: 'closed'
+                  });
+
+                  console.log(`Closed issue #${issue.number}: ${issue.title}`);
+                }
+              }
+            }

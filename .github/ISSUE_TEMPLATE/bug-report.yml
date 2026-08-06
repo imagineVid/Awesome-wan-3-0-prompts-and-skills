@@ -1,0 +1,61 @@
+# [INPUT]: Receives repository display, prompt-data, and localization defects from contributors.
+# [OUTPUT]: Produces a structured issue carrying the bug label and reproducible evidence.
+# [POS]: GitHub issue intake for failures specific to the Wan 3.0 Video collection.
+# [PROTOCOL]: 变更时更新此头部，然后检查 AGENTS.md
+name: Wan 3.0 Video Collection Bug
+description: Report broken prompt data, video playback, source attribution, or README rendering
+title: "[Bug] <Affected case or workflow>"
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Wan 3.0 Video collection bug
+
+        Thanks for helping us keep the collection accurate and usable.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Bug Description
+      description: Identify the affected case, source, video, workflow, or generated README section
+      placeholder: "Example: Case No. 12 links to a missing video preview."
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: Provide the shortest path that reproduces the problem
+      placeholder: |
+        1. Open the affected README or source record.
+        2. Locate the prompt or section.
+        3. Describe the incorrect result.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: Describe the accurate data or rendering you expected
+      placeholder: "The playable result should open from the source evidence section."
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual Behavior
+      description: Describe the current incorrect result
+      placeholder: "The preview loads but the play link returns a missing page."
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Add the source URL, screenshot, validation output, or suggested correction
+      placeholder: "Include evidence that lets a maintainer verify the correction."

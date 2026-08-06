@@ -1,0 +1,149 @@
+# [INPUT]: Receives a Wan 3.0 Video shot brief, playable result, source, creator, and model evidence.
+# [OUTPUT]: Produces a structured prompt-submission issue ready for editorial and duplicate review.
+# [POS]: Community intake boundary feeding the approved video-case publication workflow.
+# [PROTOCOL]: 变更时更新此头部，然后检查 AGENTS.md
+name: Submit a Wan 3.0 Video Case
+description: Share a reproducible video prompt with its playable result and canonical source
+title: "[Video Prompt] <Short workflow title>"
+labels: ["prompt-submission", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Submit one reproducible Wan 3.0 Video workflow. Preserve the creator's wording whenever possible and clearly identify any reconstructed text.
+
+  - type: input
+    id: prompt_title
+    attributes:
+      label: Prompt Title
+      description: Name the production pattern, not only the subject.
+      placeholder: "Low tracking chase with timed tunnel audio"
+    validations:
+      required: true
+
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Prompt
+      description: Include action, camera, timing, audio, and continuity instructions actually used.
+      render: text
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Explain what the case teaches and when the pattern is useful.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: model_version
+    attributes:
+      label: Model Version
+      options:
+        - wan-3.0
+        - wan-video-3.0
+        - Version not stated in source
+    validations:
+      required: true
+
+  - type: dropdown
+    id: input_mode
+    attributes:
+      label: Input Mode
+      options:
+        - Text to video
+        - Image to video
+        - Video editing
+        - Video extension
+    validations:
+      required: true
+
+  - type: dropdown
+    id: workflow
+    attributes:
+      label: Primary Workflow
+      options:
+        - Camera Direction & Shot Design
+        - Dialogue, Performance & Native Audio
+        - Product Motion & Commercial Spots
+        - Image-to-Video & Subject Continuity
+        - Stylized Motion & Visual Effects
+        - Video Editing, Restyling & Scene Control
+    validations:
+      required: true
+
+  - type: input
+    id: video_url
+    attributes:
+      label: Playable Video URL
+      description: Direct video URL or stable page where the result can be played.
+      placeholder: "https://video.twimg.com/.../result.mp4"
+    validations:
+      required: true
+
+  - type: input
+    id: preview_url
+    attributes:
+      label: Preview Image or GIF URL
+      description: Optional GitHub-renderable thumbnail or animated preview.
+      placeholder: "https://pbs.twimg.com/.../preview.jpg"
+
+  - type: input
+    id: author_name
+    attributes:
+      label: Original Author
+      placeholder: "@creator"
+    validations:
+      required: true
+
+  - type: input
+    id: author_link
+    attributes:
+      label: Author Profile Link
+      placeholder: "https://x.com/creator"
+    validations:
+      required: true
+
+  - type: input
+    id: source_link
+    attributes:
+      label: Source Link
+      description: Canonical post containing the prompt, result, or model evidence.
+      placeholder: "https://x.com/creator/status/1234567890"
+    validations:
+      required: true
+
+  - type: input
+    id: source_published_at
+    attributes:
+      label: Source Published Date
+      description: Date of the canonical source in YYYY-MM-DD format.
+      placeholder: "2026-07-14"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: prompt_provenance
+    attributes:
+      label: Prompt Provenance
+      options:
+        - Verbatim creator prompt
+        - Completed from creator thread or reply
+        - Source-backed reconstruction
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Rights and Accuracy
+      options:
+        - label: I preserved the original creator and canonical source.
+          required: true
+        - label: I have the right to submit any text or media I added myself under CC BY 4.0.
+          required: true
+        - label: I identified reconstructed or completed prompt text honestly.
+          required: true

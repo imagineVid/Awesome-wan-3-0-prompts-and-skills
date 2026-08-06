@@ -1,0 +1,632 @@
+[
+  {
+    "id": 1,
+    "model": "wan-3.0",
+    "title": {
+      "en": "Rain-soaked arena boxing with readable choreography",
+      "es": "Boxeo en una arena lluviosa con coreografía legible",
+      "pt": "Boxe numa arena chuvosa com coreografia legível",
+      "it": "Boxe in un'arena bagnata dalla pioggia con coreografia leggibile",
+      "de": "Boxkampf in einer regennassen Arena mit klarer Choreografie",
+      "fr": "Combat de boxe sous la pluie dans une arène lisible",
+      "ar": "ملاكمة في حلبة مبللة بالمطر مع حركة واضحة",
+      "ja": "雨に濡れた闘技場での読みやすいボクシング演出",
+      "ko": "읽기 쉬운 빗속 경기장 복싱 연출",
+      "zh": "雨幕竞技场中的清晰拳击编排",
+      "nl": "Boksen in een regenachtige arena met leesbare choreografie",
+      "ru": "Бокс на мокрой арене с читаемой хореографией",
+      "tr": "Yağmurlu arenada okunaklı boks koreografisi",
+      "pl": "Boks na deszczowej arenie z czytelną choreografią"
+    },
+    "description": {
+      "en": "A compact 17-second action brief that separates two fighters, choreographs each exchange, and uses rain, puddles, camera movement, and continuity constraints to keep the duel legible.",
+      "es": "Un brief de acción de 17 segundos que separa a dos luchadoras, coreografía cada intercambio y usa lluvia, charcos, cámara y continuidad para mantener el duelo claro.",
+      "pt": "Um briefing de ação de 17 segundos que separa duas lutadoras, coreografa cada troca e usa chuva, poças, câmara e continuidade para manter o duelo claro.",
+      "it": "Un brief d'azione di 17 secondi che separa due combattenti, coreografa ogni scambio e usa pioggia, pozzanghere, camera e continuità per rendere chiaro il duello.",
+      "de": "Ein 17-sekündiges Action-Briefing, das zwei Kämpferinnen trennt, jeden Austausch choreografiert und Regen, Pfützen, Kamera und Kontinuität für einen lesbaren Zweikampf nutzt.",
+      "fr": "Un brief d'action de 17 secondes qui sépare deux combattantes, chorégraphie chaque échange et utilise pluie, flaques, caméra et continuité pour garder le duel clair.",
+      "ar": "موجز حركة مدته 17 ثانية يفصل بين مقاتلتين وينظم كل تبادل، ويستخدم المطر والبرك والكاميرا والاستمرارية للحفاظ على وضوح المبارزة.",
+      "ja": "2人のファイターを明確に分け、交換の流れを設計し、雨、反射する水たまり、カメラ、連続性で17秒の決闘を読みやすくするアクションブリーフ。",
+      "ko": "두 선수를 분리하고 교환 동작을 설계하며 비, 물웅덩이, 카메라와 연속성 제약으로 17초 결투를 명확하게 유지하는 액션 브리프입니다.",
+      "zh": "一份 17 秒动作简报：分开两位选手、编排每次攻防，并用雨水、水洼、镜头和连续性约束保持决斗清楚可读。",
+      "nl": "Een actiebrief van 17 seconden die twee vechters scheidt, elke uitwisseling choreografeert en regen, plassen, camera en continuïteit inzet om het duel helder te houden.",
+      "ru": "17-секундный экшен-бриф, который разделяет двух бойцов, задаёт каждый обмен и использует дождь, лужи, камеру и непрерывность, чтобы дуэль оставалась понятной.",
+      "tr": "İki dövüşçüyü ayıran, her değiş tokuşu yöneten ve düelloyu anlaşılır tutmak için yağmur, su birikintileri, kamera ve süreklilik kullanan 17 saniyelik aksiyon brifi.",
+      "pl": "17-sekundowy brief akcji, który rozdziela dwie zawodniczki, opisuje każdą wymianę i wykorzystuje deszcz, kałuże, kamerę oraz ciągłość, by pojedynek pozostał zrozumiały."
+    },
+    "content": {
+      "en": "Create a 17-second, 16:9 cinematic 3D-realism boxing sequence with two adult female fighters in a ruined circular stone arena at night. Keep their faces, bodies, outfits, and positions consistent. Use only fists, blocks, parries, slips, and footwork. Start with a low wide shot, move into lateral tracking during the exchange, add one brief slow-motion dodge, then finish on a controlled half-orbit after a clean uppercut. Light rain, reflective puddles, cold moonlight, warm torchlight, realistic sweat and water droplets. Keep the action readable and grounded. No dialogue, captions, music, weapons, powers, anatomy errors, duplicate characters, or watermark.",
+      "es": "Crea una secuencia de boxeo cinematográfica de 17 segundos, 16:9 y realismo 3D, con dos luchadoras adultas en una arena circular de piedra en ruinas durante la noche. Mantén constantes sus rostros, cuerpos, vestuario y posiciones. Usa solo puños, bloqueos, desvíos, esquivas y desplazamientos. Empieza con un plano general bajo, pasa al seguimiento lateral durante el intercambio, añade una breve esquiva en cámara lenta y termina con una semiórbita controlada después de un uppercut limpio. Lluvia ligera, charcos reflectantes, luz lunar fría, antorchas cálidas, sudor y gotas realistas. Sin diálogo, subtítulos, música, armas, poderes, errores anatómicos, personajes duplicados ni marca de agua.",
+      "pt": "Crie uma sequência de boxe cinematográfica de 17 segundos, 16:9 e realismo 3D, com duas lutadoras adultas numa arena circular de pedra em ruínas à noite. Mantenha rostos, corpos, roupas e posições consistentes. Use apenas punhos, bloqueios, defesas, esquivas e trabalho de pés. Comece com um plano geral baixo, passe para um travelling lateral durante a troca, inclua uma breve esquiva em câmara lenta e termine com uma meia-órbita controlada depois de um uppercut limpo. Chuva leve, poças refletoras, luar frio, tochas quentes, suor e gotas realistas. Sem diálogo, legendas, música, armas, poderes, erros anatómicos, personagens duplicadas ou marca de água.",
+      "it": "Crea una sequenza di boxe cinematografica di 17 secondi, 16:9 e realismo 3D, con due combattenti adulte in un'arena circolare di pietra in rovina, di notte. Mantieni coerenti volti, corpi, abiti e posizioni. Usa solo pugni, parate, deviazioni, schivate e gioco di gambe. Inizia con un campo largo dal basso, passa a un tracking laterale durante lo scambio, aggiungi una breve schivata al rallentatore e chiudi con una mezza orbita controllata dopo un uppercut netto. Pioggia leggera, pozzanghere riflettenti, luna fredda, torce calde, sudore e gocce realistiche. Niente dialoghi, sottotitoli, musica, armi, poteri, errori anatomici, personaggi duplicati o watermark.",
+      "de": "Erzeuge eine 17-sekündige, 16:9 große, filmische Boxsequenz im 3D-Realismus mit zwei erwachsenen Kämpferinnen in einer verfallenen runden Steinarena bei Nacht. Gesichter, Körper, Kleidung und Positionen bleiben konsistent. Nur Fäuste, Blocks, Paraden, Ausweichbewegungen und Fußarbeit. Beginne mit einer tiefen Totalen, wechsle im Austausch zu seitlichem Tracking, setze eine sehr kurze Zeitlupe beim Ausweichen ein und ende nach einem sauberen Uppercut in einer kontrollierten Halbkreisfahrt. Leichter Regen, spiegelnde Pfützen, kaltes Mondlicht, warme Fackeln, realistischer Schweiß und Wasser. Kein Dialog, keine Untertitel, Musik, Waffen, Kräfte, Anatomiefehler, Doppelgänger oder Wasserzeichen.",
+      "fr": "Créez une séquence de boxe cinématographique de 17 secondes, au format 16:9 et en réalisme 3D, avec deux combattantes adultes dans une arène circulaire en pierre en ruine, de nuit. Gardez leurs visages, corps, tenues et positions cohérents. Utilisez uniquement les poings, les parades, les esquives et le jeu de jambes. Commencez par un plan large bas, passez à un suivi latéral pendant l'échange, ajoutez une très brève esquive au ralenti et terminez par une demi-orbite contrôlée après un uppercut net. Pluie légère, flaques réfléchissantes, lune froide, torches chaudes, sueur et gouttes réalistes. Aucun dialogue, sous-titre, musique, arme, pouvoir, défaut anatomique, doublon ou filigrane.",
+      "ar": "أنشئ تسلسل ملاكمة سينمائيًا مدته 17 ثانية بنسبة 16:9 وبواقعية ثلاثية الأبعاد، مع مقاتلتين بالغتين داخل حلبة حجرية دائرية متهدمة ليلًا. حافظ على ثبات الوجه والجسد والملابس والمواقع. استخدم اللكمات والصدّات والمراوغات وحركة القدمين فقط. ابدأ بلقطة واسعة منخفضة، وانتقل إلى تتبع جانبي أثناء التبادل، وأضف مراوغة قصيرة بالحركة البطيئة، ثم اختم بنصف دوران مضبوط بعد ضربة علوية واضحة. مطر خفيف، برك عاكسة، ضوء قمر بارد، مشاعل دافئة، وعرق وقطرات واقعية. بلا حوار أو ترجمة أو موسيقى أو أسلحة أو قوى أو أخطاء تشريحية أو شخصيات مكررة أو علامة مائية.",
+      "ja": "夜の廃墟となった円形の石造闘技場で、2人の成人女性ファイターが戦う17秒、16:9のシネマティックな3Dリアリズム映像を作成する。顔、体格、衣装、位置を最後まで固定する。使うのはパンチ、ブロック、パリー、スリップ、フットワークだけ。低いワイドショットで始め、交換中は横方向のトラッキングに移り、短いスローモーションの回避を一度入れ、最後は明確なアッパーカットの後に制御されたハーフオービットで終える。小雨、反射する水たまり、冷たい月光、暖かな松明、自然な汗と水滴。台詞、字幕、音楽、武器、超能力、解剖学的破綻、重複した人物、透かしは入れない。",
+      "ko": "폐허가 된 원형 석조 경기장에서 두 성인 여성 선수가 싸우는 17초, 16:9 시네마틱 3D 리얼리즘 영상을 만드세요. 얼굴, 체형, 의상, 위치를 끝까지 일관되게 유지하세요. 주먹, 블록, 패리, 슬립, 풋워크만 사용하세요. 낮은 와이드 숏으로 시작해 교환 중에는 측면 트래킹으로 전환하고, 짧은 슬로모션 회피를 한 번 넣은 뒤 깔끔한 어퍼컷 후 통제된 하프 오비트로 끝내세요. 가벼운 비, 반사되는 물웅덩이, 차가운 달빛, 따뜻한 횃불, 사실적인 땀과 물방울. 대사, 자막, 음악, 무기, 초능력, 해부학적 오류, 중복 인물, 워터마크는 금지합니다.",
+      "zh": "制作一段 17 秒、16:9、电影感 3D 写实拳击视频：两位成年女性选手在夜晚一座破败的圆形石头竞技场内交手。全程保持面孔、体型、服装和站位一致。只使用拳击、格挡、拍挡、闪避和步法。用低机位大全景开场，交锋时切换到侧向跟拍，加入一次短暂的闪避慢动作，最后在干净的上勾拳后以受控的半环绕结束。轻雨、反光水洼、冷月光、暖火把、真实汗水和水滴。不要对白、字幕、音乐、武器、超能力、解剖错误、重复人物或水印。",
+      "nl": "Maak een filmische boksscène van 17 seconden, 16:9 en 3D-realistisch, met twee volwassen vrouwelijke vechters in een vervallen ronde stenen arena bij nacht. Houd hun gezichten, lichamen, kleding en posities consistent. Gebruik alleen vuisten, blokken, pareren, slippen en voetenwerk. Begin met een laag totaalbeeld, ga tijdens de uitwisseling over naar laterale tracking, voeg één korte slowmotion-ontwijking toe en eindig na een duidelijke uppercut met een gecontroleerde halve orbit. Lichte regen, reflecterende plassen, koud maanlicht, warme fakkels, realistisch zweet en water. Geen dialoog, ondertitels, muziek, wapens, krachten, anatomische fouten, dubbele personages of watermerk.",
+      "ru": "Создай кинематографичную боксёрскую сцену длительностью 17 секунд, 16:9, в 3D-реализме: две взрослые женщины-бойца сражаются ночью на разрушенной круглой каменной арене. Сохрани лица, телосложение, одежду и позиции неизменными. Используй только удары руками, блоки, парирования, уклоны и работу ног. Начни с низкого общего плана, перейди к боковому трекингу во время обмена, добавь короткий уклон в замедлении и закончи контролируемой полуорбитой после чистого апперкота. Лёгкий дождь, отражающие лужи, холодный лунный свет, тёплые факелы, реалистичный пот и капли. Без диалогов, субтитров, музыки, оружия, сил, анатомических ошибок, дубликатов персонажей и водяного знака.",
+      "tr": "Gece, harap dairesel taş arenada dövüşen iki yetişkin kadın dövüşçüyle 17 saniyelik, 16:9 sinematik 3D gerçekçilikte bir boks sekansı oluştur. Yüzleri, bedenleri, kıyafetleri ve konumları boyunca tutarlı koru. Yalnızca yumruk, blok, parry, slip ve ayak çalışması kullan. Alçak geniş planla başla, değiş tokuş sırasında yanal takip çekimine geç, tek bir kısa ağır çekim kaçış ekle ve temiz bir aparkattan sonra kontrollü yarım yörüngeyle bitir. Hafif yağmur, yansıtıcı su birikintileri, soğuk ay ışığı, sıcak meşaleler, gerçekçi ter ve su damlaları. Diyalog, altyazı, müzik, silah, güç, anatomi hatası, kopya karakter veya filigran olmasın.",
+      "pl": "Stwórz 17-sekundową, kinową sekwencję bokserską 16:9 w realizmie 3D, z dwiema dorosłymi zawodniczkami w nocnej, zrujnowanej, okrągłej kamiennej arenie. Zachowaj spójność twarzy, sylwetek, ubrań i pozycji. Używaj tylko ciosów, bloków, parowania, uników i pracy nóg. Zacznij od niskiego szerokiego planu, podczas wymiany przejdź do bocznego trackingu, dodaj jeden krótki unik w zwolnionym tempie i zakończ kontrolowaną półorbitą po czystym podbródkowym. Lekki deszcz, odbijające światło kałuże, zimne światło księżyca, ciepłe pochodnie, realistyczny pot i krople. Bez dialogów, napisów, muzyki, broni, mocy, błędów anatomii, powielonych postaci i znaku wodnego."
+    },
+    "sourceLink": "https://x.com/OpreliaAI/status/2084771796910211529",
+    "sourcePublishedAt": "2026-08-04T22:41:44.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2084715180269654016/img/asHNjLcS9QnUssHz.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2084715180269654016/vid/avc1/1280x720/zbe-ld1fHtQVTO0d.mp4?tag=14",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084715180269654016/img/asHNjLcS9QnUssHz.jpg"
+    },
+    "author": {
+      "name": "Oprèlia AI",
+      "link": "https://x.com/OpreliaAI"
+    },
+    "language": "en",
+    "featured": true,
+    "sort": 1,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2084771796910211529",
+      "prompt_source": "thread_reply_linked_prompt_rewritten",
+      "model_evidence": "wan-3.0",
+      "likeCount": 3,
+      "bookmarkCount": 1,
+      "viewCount": 317,
+      "input_mode": "image-to-video",
+      "curation_note": "The creator's X reply links a public Telegram post containing the full tested prompt. The canonical entry below is a shorter editorial reflow; the X result remains the primary media evidence."
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 61,
+          "title": "Camera Paths & Shot Pacing",
+          "slug": "camera-direction-shot-design"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "model": "wan-3.0",
+    "title": {
+      "en": "Seven-shot spear fight with locked screen direction",
+      "es": "Combate de lanza en siete planos con dirección de pantalla bloqueada",
+      "pt": "Combate de lança em sete planos com direção de ecrã bloqueada",
+      "it": "Duello con lancia in sette inquadrature e asse dello schermo bloccato",
+      "de": "Sieben-Szenen-Speerduell mit fixierter Bildschirmrichtung",
+      "fr": "Duel à la lance en sept plans avec axe écran verrouillé",
+      "ar": "قتال رمح من سبع لقطات مع تثبيت اتجاه الشاشة",
+      "ja": "画面方向を固定した7ショットの槍の決闘",
+      "ko": "화면 방향을 고정한 7개 샷 창싸움",
+      "zh": "固定屏幕方向的七镜头长枪决斗",
+      "nl": "Zeven-shot speergevecht met vergrendelde schermrichting",
+      "ru": "Семь планов боя с копьём и фиксированным направлением экрана",
+      "tr": "Ekran yönü kilitli yedi planlı mızrak dövüşü",
+      "pl": "Siedmioujęciowy pojedynek na włócznie ze stałym kierunkiem ekranu"
+    },
+    "description": {
+      "en": "A source prompt for a seven-shot cel-animated duel that pins screen geography, action vectors, color-coded energy, hit-stops, and continuity across cuts.",
+      "es": "Un prompt fuente para un duelo de animación cel de siete planos que fija la geografía de pantalla, los vectores de acción, la energía por colores, las pausas de impacto y la continuidad.",
+      "pt": "Um prompt de origem para um duelo de animação cel em sete planos que fixa a geografia do ecrã, os vetores de ação, a energia por cores, as pausas de impacto e a continuidade.",
+      "it": "Un prompt sorgente per un duello in animazione cel a sette inquadrature che fissa la geografia dello schermo, i vettori d'azione, i colori dell'energia, gli hit-stop e la continuità.",
+      "de": "Ein Quellenprompt für ein siebenteiliges Cel-Animationsduell mit festgelegter Bildschirmgeografie, Aktionsvektoren, Farbcodierung, Hit-Stops und Schnittkontinuität.",
+      "fr": "Un prompt source pour un duel en animation cel de sept plans qui fixe la géographie de l'écran, les vecteurs d'action, les couleurs d'énergie, les arrêts sur impact et la continuité.",
+      "ar": "موجّه مصدر لمبارزة رسوم خلوية من سبع لقطات يثبت جغرافيا الشاشة ومتجهات الحركة وألوان الطاقة وتوقفات الاصطدام والاستمرارية بين اللقطات.",
+      "ja": "画面上の地理、アクションベクトル、色分けしたエネルギー、ヒットストップ、カット間の連続性を固定する7ショットのセルアニメーション用ソースプロンプト。",
+      "ko": "화면 지리, 액션 벡터, 색으로 구분한 에너지, 히트 스톱, 컷 사이의 연속성을 고정하는 7샷 셀 애니메이션 소스 프롬프트입니다.",
+      "zh": "一份七镜头赛璐璐动画源提示词，固定屏幕空间、动作向量、能量配色、冲击定格和剪辑之间的连续性。",
+      "nl": "Een bronprompt voor een celgeanimeerd duel in zeven shots die schermgeografie, bewegingsvectoren, kleurenergie, hit-stops en continuïteit tussen cuts vastlegt.",
+      "ru": "Исходный промпт для цел-анимационного поединка из семи планов, фиксирующий экранную географию, векторы действия, цвет энергии, hit-stop и непрерывность между склейками.",
+      "tr": "Ekran coğrafyasını, hareket vektörlerini, renk kodlu enerjiyi, çarpışma duraklarını ve kesmeler arası sürekliliği sabitleyen yedi planlı cel animasyon kaynak promptu.",
+      "pl": "Prompt źródłowy do siedmioujęciowej animacji cel, który blokuje geografię ekranu, wektory ruchu, kolor energii, hit-stopy i ciągłość między cięciami."
+    },
+    "content": {
+      "en": "Create a 15-second, 16:9 seven-shot 2D hand-drawn cel-animated fight. A small spear fighter starts screen-left and a massive brawler starts screen-right; keep that south-side camera axis throughout. Use cyan energy for the spear fighter and ember-orange energy for the brawler. Build the sequence with anticipation, a thrown stone slab, a rubble vault, a rising staircase of airborne chunks, a brief slow-motion backhand, an eye close-up, and a final spear pierce with a half-beat of silence and a hit-stop. Preserve character designs, face details, injury continuity, arena damage, heavy rubble physics, and the seven-shot count. No extra shots, text, subtitles, watermark, or fused bodies.",
+      "es": "Crea una pelea de 15 segundos, 16:9 y animación 2D dibujada a mano en siete planos. Una luchadora pequeña con lanza empieza a la izquierda y un enorme boxeador empieza a la derecha; conserva ese eje de cámara durante todo el clip. Usa energía cian para ella y naranja incandescente para él. Construye anticipación, una losa lanzada, un salto sobre escombros, una escalera de fragmentos suspendidos, un breve golpe en cámara lenta, un primer plano de los ojos y un golpe final de lanza con medio beat de silencio y pausa de impacto. Conserva diseños, rostros, heridas, daños de la arena, física pesada y exactamente siete planos. Sin planos extra, texto, subtítulos, marca de agua ni cuerpos fusionados.",
+      "pt": "Crie uma luta de 15 segundos, 16:9, em animação 2D desenhada à mão e dividida em sete planos. Uma lutadora pequena com lança começa à esquerda e um lutador enorme começa à direita; mantenha esse eixo de câmara durante todo o clipe. Use energia ciano para ela e laranja-incandescente para ele. Construa antecipação, uma laje lançada, um salto sobre destroços, uma escada de fragmentos suspensos, um breve golpe em câmara lenta, um grande plano dos olhos e um golpe final de lança com meio beat de silêncio e pausa de impacto. Preserve designs, rostos, feridas, danos na arena, física pesada e exatamente sete planos. Sem planos extra, texto, legendas, marca de água ou corpos fundidos.",
+      "it": "Crea un combattimento di 15 secondi, 16:9, in animazione 2D disegnata a mano e divisa in sette inquadrature. Una combattente minuta con lancia parte a sinistra e un enorme picchiatore a destra; conserva questo asse di camera per tutto il clip. Usa energia ciano per lei e arancione incandescente per lui. Costruisci anticipazione, una lastra lanciata, un salto sui detriti, una scala di frammenti sospesi, un breve colpo al rallentatore, un primo piano degli occhi e un affondo finale con mezzo beat di silenzio e hit-stop. Mantieni design, volti, ferite, danni all'arena, fisica pesante ed esattamente sette inquadrature. Niente inquadrature extra, testo, sottotitoli, watermark o corpi fusi.",
+      "de": "Erzeuge einen 15-sekündigen, 16:9 großen Kampf in sieben Einstellungen als handgezeichnete 2D-Cel-Animation. Eine kleine Speerkämpferin beginnt links, ein massiver Schläger rechts; die Kameraachse bleibt durchgehend gleich. Cyanfarbene Energie gehört der Speerkämpferin, glühendes Orange dem Schläger. Zeige Antizipation, eine geworfene Steinplatte, einen Sprung über Trümmer, eine Treppe aus schwebenden Brocken, einen kurzen Zeitlupen-Backhand, eine Nahaufnahme der Augen und den finalen Speerstich mit einem halben Beat Stille und Hit-Stop. Designs, Gesichter, Verletzung, Arenaschäden, schwere Trümmerphysik und exakt sieben Einstellungen bewahren. Keine zusätzlichen Einstellungen, Texte, Untertitel, Wasserzeichen oder verschmolzenen Körper.",
+      "fr": "Créez un combat de 15 secondes, au format 16:9, en animation 2D dessinée à la main et découpée en sept plans. Une combattante petite armée d'une lance commence à gauche et un colosse commence à droite ; gardez cet axe de caméra pendant tout le clip. Utilisez une énergie cyan pour elle et orange braise pour lui. Construisez l'anticipation, une dalle lancée, un saut sur les débris, un escalier de fragments en suspension, un bref revers au ralenti, un gros plan sur les yeux et une estocade finale avec un demi-temps de silence et un arrêt sur impact. Préservez les designs, visages, blessures, dégâts de l'arène, poids des débris et exactement sept plans. Aucun plan supplémentaire, texte, sous-titre, filigrane ou corps fusionné.",
+      "ar": "أنشئ قتالًا مدته 15 ثانية بنسبة 16:9 بأسلوب رسوم ثنائية الأبعاد مرسومة يدويًا ومقسمة إلى سبع لقطات. تبدأ المحاربة الصغيرة ذات الرمح من يسار الشاشة ويبدأ المقاتل الضخم من اليمين؛ حافظ على محور الكاميرا نفسه طوال المقطع. استخدم طاقة سماوية للمحاربة وطاقة برتقالية متوهجة للمقاتل. ابنِ التمهيد، ولوحًا حجريًا مقذوفًا، وقَفزة فوق الحطام، وسلّمًا من القطع الطائرة، وضربة ظهر قصيرة بالحركة البطيئة، ولقطة قريبة للعينين، وطعنة رمح نهائية مع نصف نبضة صمت وتوقف اصطدام. حافظ على التصميم والوجوه والإصابات وضرر الحلبة وفيزياء الحطام وعدد اللقطات السبع. بلا لقطات إضافية أو نص أو ترجمة أو علامة مائية أو أجساد مندمجة.",
+      "ja": "手描きの2Dセルアニメーションで、15秒、16:9、7ショットの戦闘を作成する。小柄な槍使いは画面左、大柄な格闘家は画面右から始め、カメラ軸を全編で維持する。槍使いのエネルギーはシアン、格闘家のエネルギーは燃えるオレンジ。予備動作、投げられた石板、瓦礫を跳ぶ動き、空中の破片の階段、短いスローモーションの裏拳、目のクローズアップ、そして半拍の無音とヒットストップを伴う最後の槍突きを構成する。デザイン、顔、傷、闘技場の損傷、重い瓦礫の物理、7ショットの数を保持する。余分なショット、文字、字幕、透かし、融合した体は不可。",
+      "ko": "손으로 그린 2D 셀 애니메이션으로 15초, 16:9, 7샷 전투를 만드세요. 작은 창술가는 화면 왼쪽, 거대한 격투가는 오른쪽에서 시작하며 카메라 축을 전체 영상에서 유지하세요. 창술가의 에너지는 시안, 격투가의 에너지는 타오르는 주황색입니다. 예비 동작, 던져진 석판, 잔해를 뛰어넘는 동작, 공중 파편 계단, 짧은 슬로모션 백핸드, 눈 클로즈업, 반 박자 무음과 히트 스톱이 있는 마지막 창 찌르기를 구성하세요. 디자인, 얼굴, 상처, 경기장 손상, 무거운 잔해 물리와 정확히 7개의 샷을 보존하세요. 추가 샷, 텍스트, 자막, 워터마크, 융합된 몸은 금지합니다.",
+      "zh": "制作一段 15 秒、16:9、手绘 2D 赛璐璐动画战斗，共七个镜头。小个子长枪战士从画面左侧开始，巨大的格斗家从右侧开始，整段保持同一摄影机轴线。长枪战士使用青色能量，格斗家使用炽橙色能量。依次表现蓄势、投掷石板、跃过碎石、空中碎片阶梯、短暂慢动作的反手击、眼睛特写，以及带半拍静音和冲击定格的最后一记长枪突刺。保持角色设计、面孔、伤口、竞技场损伤、沉重碎石物理和严格的七镜头数量。不要额外镜头、文字、字幕、水印或身体融合。",
+      "nl": "Maak een gevecht van 15 seconden, 16:9 en handgetekende 2D-celanimatie in zeven shots. Een kleine speervechter begint links en een grote vechter rechts; houd die camera-as de hele clip vast. Gebruik cyaanenergie voor haar en gloeiend oranje voor hem. Bouw anticipatie, een geworpen stenen plaat, een sprong over puin, een trap van zwevende brokstukken, een korte slowmotion-backhand, een close-up van de ogen en een laatste speerstoot met een halve tel stilte en hit-stop. Behoud ontwerpen, gezichten, verwondingen, arenaschade, zwaar puin en precies zeven shots. Geen extra shots, tekst, ondertitels, watermerk of samengesmolten lichamen.",
+      "ru": "Создай бой длительностью 15 секунд, 16:9, в виде рисованной 2D цел-анимации из семи планов. Маленькая воительница с копьём начинает слева, огромный боец — справа; сохраняй ось камеры весь ролик. Для воительницы используй циановую энергию, для бойца — раскалённо-оранжевую. Построй вступление, брошенную каменную плиту, прыжок через обломки, лестницу из парящих кусков, короткий замедленный удар тыльной стороной руки, крупный план глаз и финальный выпад копьём с половиной такта тишины и hit-stop. Сохрани дизайн, лица, раны, повреждения арены, тяжёлую физику обломков и ровно семь планов. Без дополнительных планов, текста, субтитров, водяных знаков и слияния тел.",
+      "tr": "El çizimi 2D cel animasyonla 15 saniyelik, 16:9, yedi planlı bir dövüş oluştur. Küçük mızraklı savaşçı ekranın solundan, iri dövüşçü sağından başlasın; kamera eksenini klip boyunca koru. Savaşçı için camgöbeği, dövüşçü için kor gibi turuncu enerji kullan. Hazırlık, fırlatılan taş levha, moloz üzerinden atlayış, havada duran parçalardan merdiven, kısa ağır çekim arka yumruk, göz yakın planı ve yarım vuruş sessizlik ile çarpışma duraklaması içeren son mızrak hamlesini kur. Tasarımları, yüzleri, yaraları, arena hasarını, ağır moloz fiziğini ve tam yedi planı koru. Ek plan, metin, altyazı, filigran veya birleşmiş beden olmasın.",
+      "pl": "Stwórz 15-sekundową walkę 16:9 w ręcznie rysowanej animacji 2D cel, podzieloną na siedem ujęć. Mała wojowniczka z włócznią zaczyna po lewej, a wielki wojownik po prawej; utrzymaj tę oś kamery przez cały klip. Użyj cyjanowej energii dla wojowniczki i żarzącej się pomarańczowej dla wojownika. Zbuduj przygotowanie, rzuconą kamienną płytę, skok nad gruzem, schody z unoszących się odłamków, krótki spowolniony cios grzbietem dłoni, zbliżenie oczu i finałowe pchnięcie włócznią z półtaktem ciszy i hit-stopem. Zachowaj projekty postaci, twarze, rany, uszkodzenia areny, ciężką fizykę gruzu i dokładnie siedem ujęć. Bez dodatkowych ujęć, tekstu, napisów, znaku wodnego ani zrośniętych ciał."
+    },
+    "sourceLink": "https://x.com/Dani__oros/status/2084475003223896189",
+    "sourcePublishedAt": "2026-08-04T03:02:23.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2084474303987474432/img/2GZ8LBxzIzHzoroJ.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2084474303987474432/vid/avc1/1920x1080/xdN7PiMNI73-LFHG.mp4?tag=29",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084474303987474432/img/2GZ8LBxzIzHzoroJ.jpg"
+    },
+    "author": {
+      "name": "Dani Oros",
+      "link": "https://x.com/Dani__oros"
+    },
+    "language": "en",
+    "featured": true,
+    "sort": 2,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2084475003223896189",
+      "prompt_source": "thread_reply_prompt_rewritten",
+      "model_evidence": "wan-3.0",
+      "likeCount": 208,
+      "bookmarkCount": 117,
+      "viewCount": 20030,
+      "input_mode": "text-to-video",
+      "curation_note": "The creator published the full prompt in an X thread reply and identified the first comparison result as Wan 3.0. The entry keeps the full source reply as a related variant while presenting a shorter reusable brief."
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 65,
+          "title": "Stylized Action & Effects",
+          "slug": "stylized-motion-visual-effects"
+        }
+      ]
+    },
+    "promptVariants": [
+      {
+        "title": "Creator source prompt (English)",
+        "content": "Prompt:\nMulti-shot (7 shots).\nTSUBAME (Spear Girl) — 17, lean and small, sharp jawline, short black bob with long straight bangs, fierce dark-teal eyes; sleeveless white gi top with teal trim, black shorts, bandaged forearms and shins, split-toe boots; carries a two-meter spear with a slim leaf-blade head — the spearhead and her motion trails read cyan.\nGARAN (Brawler) — huge, over two meters, slab-muscled, shaved head, heavy brow, small pale eyes; bare-chested with a cracked stone-grey harness strap, massive taped fists, canvas trousers, iron-shod boots. Every slab he rips from the floor glows ember-orange in its tear-lines, and orange dust light clings to his hands.\n\nStyle: 2D hand-drawn cel animation, film-grade sakuga action. Clear line art, flat cel shading with hard shadow boundaries; non-photoreal — no pore-level skin, no 3D volumetric render feel. Fighter colors LOCKED: Tsubame = cyan (spear-tip glint, afterimage trails, speed-lines), Garan = ember-orange (molten glow in every floor tear, rubble rim-light). All glows two-tone — white-hot core, saturated colored rim, trailing dust and embers that linger after each impact. World: desaturated slate-grey shattered arena with a huge faded mosaic emblem in the floor, so both hues detonate off it. The nearest glow is the key light — cyan rim on her, orange bounce on him and the rock. Bold corner-to-corner diagonals on action; fast beats drawn as key poses, smear frames, and impact frames — never continuous legible travel. Real mass everywhere: slabs are tons, not props. Camera: animation camerawork — snap-zooms, speed-lines, orbits, held frames, hit-stops all allowed.\n\n⚠️This video has STRICTLY 7 shots — do not add extra shots.\n⚠️SPATIAL LAYOUT (MAIN VIEW = from the SOUTH side, top-down axis west–east; screen-left = west, screen-right = east): Tsubame starts at the west edge facing east (screen-right, toward Garan); Garan stands ~18m east of her, facing west (screen-left, toward her). Her vault path travels west→east, rising diagonally toward the upper frame as she climbs the airborne chunks. 180° LINE: camera stays on the south side all clip — Tsubame on screen-left, Garan on screen-right, no swapping.\n⚠️ACTION VECTORS: (V1, SHOT 2) Garan hurls a car-sized slab two-handed, east→west (screen right→left), at Tsubame's center mass — she slides flat under it; it detonates on the floor west of her. (V2, SHOT 3) Garan's right-arm sweep flings a fan of rubble east→west — she runs into it and vaults the chunks. (V4, SHOT 5) Garan's right backhand sweeps east→west at her head as she reaches the fourth chunk — she plants the spear in the chunk and corkscrews around the shaft past the fist; one shard grazes her LEFT cheek. (V5, SHOT 7) Tsubame's spear thrust travels west→east (screen left→right) through the center of his final slab into Garan's crossed-forearm guard at chest height — he is driven east, heels carving trenches.\n⚠️Continuity across cuts: designs, colors, and arena damage stay identical and only progress, never reset — the left-cheek cut appears in SHOT 5 and persists bleeding a thin line through SHOTS 6–7; rubble and craters only accumulate.\n\n[SHOT 1] · Anticipation (~2s): scale-wide, static with a slow drift — two tiny figures on the vast cracked mosaic. Garan RIPS a car-sized slab out of the floor, orange light flaring in the tear-lines, and shoulders it; across the arena Tsubame drops low, spear leveled flat, one toe carving the dust. Her breathing is even; his grin is wide.\n[SHOT 2] · The slab (~2s): low lateral tracking with her — the slab comes in huge, right→left; she slides flat under its shadow, back scraping sparks, and it detonates behind her in a wall of grey dust with an orange core. She's up and sprinting before the debris lands.\n[SHOT 3] · The scatter (~2.5s): Garan tears the floor again and sweeps his arm — a shotgun fan of rubble fills the air right→left. She doesn't brake; she accelerates INTO it, first vault off the lowest chunk, drawn as anticipation pose → smear → landing pose. Lunge-track, background streaking.\n[SHOT 4] · The staircase (~2.5s, the money shot): low hero-angle orbit rising with her — Tsubame vaults chunk to airborne chunk up the diagonal, each foot-plant cracking the stone she leaves, cyan afterimage stitching one unbroken line through his barrage. Below and ahead, Garan's eyes narrow — he's reading it.\n[SHOT 5] · The backhand (~1.5s, brief slow-mo): his colossal backhand fills the frame right→left — she plants the spear in the fourth chunk and corkscrews around the shaft, the fist parting her hair, a shard opening a thin cut on her left cheek. Blood beads. Snap back to full speed as her feet find the chunk's edge.\n[SHOT 6] · The gate (~1s): held extreme close-up, slow push-in — her eyes only, no blink, cyan spearhead light reflected across them, the cheek-cut's red line sharp against the cel shading. Behind her focus, blurred, Garan heaves the biggest slab of the fight overhead, orange light pouring through its cracks.\n[SHOT 7] · The pierce (~3.5s): he hurls the colossal slab — she dives spear-first off the top chunk, left→right, and PIERCES STRAIGHT THROUGH ITS CENTER: the slab splits into two halves that peel past the camera. All sound — music and SFX — drops dead silent for the half-beat of the pierce; one deep concussive boom resolves it as the spear-tip slams into his crossed-forearm guard. Hit-stop on the impact frame, FX touching all four edges, near-white color-out. Then motion resumes: Garan is driven backward, iron heels carving twin trenches, the floor cratering — and holds his feet. Camera whips with her dive, freezes on the hit-stop, then eases back to a wide: both standing, dust ring expanding, the exchange over but the fight not.\n\nEnvironmental activity: no bystanders — an empty ruined arena; dust motes and small debris rain steadily after every impact; distant rumble of settling stone.\nAudio: music allowed and scored to the fight; full SFX — stone shear, rubble whistle, the silence-drop and single boom on the pierce.\n\nThe two fighters remain two distinct, separate bodies in every frame, even at full contact. Faces, hands, and designs stay on-model start to finish — five-fingered hands with clean articulation, correct limb topology, character designs identical shot to shot. The spear keeps its slim leaf-blade shape and full two-meter length in every frame. Rubble flies on heavy ballistic arcs with real tonnage — each chunk accelerates, hits hard, and stays down; her foot-plants grip and crack the stone they leave (the SHOT 5 slow-mo and SHOT 7 hit-stop are deliberate, intentional holds). Full fluid high-frame-feel animation with a living camera throughout; matte hand-drawn cel surfaces; color stays disciplined to the locked cyan/orange/slate palette. No watermark, no on-screen text, no subtitles.\n15 seconds. 16:9.",
+        "sourceLink": "https://x.com/Dani__oros/status/2084475003223896189"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "model": "wan-3.0",
+    "title": {
+      "en": "Television-drama opening with a single visual reveal",
+      "es": "Apertura de drama televisivo con una sola revelación visual",
+      "pt": "Abertura de drama televisivo com uma única revelação visual",
+      "it": "Apertura da drama televisivo con un'unica rivelazione visiva",
+      "de": "TV-Drama-Opener mit einer einzigen visuellen Enthüllung",
+      "fr": "Ouverture de drama télévisé avec une seule révélation visuelle",
+      "ar": "افتتاحية دراما تلفزيونية مع كشف بصري واحد",
+      "ja": "ひとつの視覚的な reveal を置くテレビドラマのオープニング",
+      "ko": "하나의 시각적 reveal을 가진 TV 드라마 오프닝",
+      "zh": "只有一个视觉揭示的电视剧开场",
+      "nl": "Televisiedrama-opening met één visuele onthulling",
+      "ru": "Открытие теледрамы с одним визуальным раскрытием",
+      "tr": "Tek görsel açığa çıkarmalı televizyon draması açılışı",
+      "pl": "Otwarcie dramatu telewizyjnego z jednym wizualnym ujawnieniem"
+    },
+    "description": {
+      "en": "A transparent reconstruction of the shot logic behind a high-engagement Wan 3.0 TV-drama opening showcase: establish place, reveal a character, then land on a motivated final beat.",
+      "es": "Reconstrucción transparente de la lógica de planos de una muestra de apertura televisiva de Wan 3.0: establecer el lugar, revelar un personaje y cerrar con un beat motivado.",
+      "pt": "Reconstrução transparente da lógica de planos de uma demonstração de abertura televisiva do Wan 3.0: estabelecer o lugar, revelar uma personagem e terminar num beat motivado.",
+      "it": "Ricostruzione trasparente della logica di ripresa di una demo di apertura televisiva Wan 3.0: stabilire il luogo, rivelare un personaggio e chiudere su un beat motivato.",
+      "de": "Eine transparent markierte Rekonstruktion der Shot-Logik eines Wan-3.0-TV-Drama-Showcases: Ort etablieren, Figur enthüllen, auf einem motivierten Schlussbeat landen.",
+      "fr": "Reconstruction transparente de la logique de plans d'une démonstration d'ouverture télévisée Wan 3.0 : installer le lieu, révéler un personnage, conclure sur un beat motivé.",
+      "ar": "إعادة بناء معلنة بوضوح لمنطق اللقطات في عرض افتتاحية تلفزيونية لـ Wan 3.0: تثبيت المكان ثم كشف الشخصية والهبوط على إيقاع نهائي مبرر.",
+      "ja": "場所を提示し、人物を見せ、動機のある最後のビートへ着地する、Wan 3.0のテレビドラマ風オープニング展示から抽出した透明な再構成。",
+      "ko": "장소를 세우고 인물을 드러낸 뒤 동기 있는 마지막 비트로 끝내는 Wan 3.0 TV 드라마 오프닝 쇼케이스의 숏 논리를 투명하게 재구성했습니다.",
+      "zh": "对 Wan 3.0 电视剧式开场展示中的镜头逻辑进行透明重构：先建立地点，再揭示人物，最后落在有动机的节拍上。",
+      "nl": "Een transparante reconstructie van de shotlogica achter een Wan 3.0-tvdrama-showcase: plaats bepalen, personage onthullen en landen op een gemotiveerde beat.",
+      "ru": "Прозрачно обозначенная реконструкция логики планов телевизионной демонстрации Wan 3.0: задать место, раскрыть персонажа и завершить мотивированным битом.",
+      "tr": "Wan 3.0 televizyon draması vitrininin plan mantığından şeffaf biçimde yeniden kuruldu: yeri kur, karakteri açığa çıkar ve gerekçeli son vuruşa in.",
+      "pl": "Przejrzysta rekonstrukcja logiki ujęć z pokazu otwarcia dramatu Wan 3.0: ustanów miejsce, ujawnij postać i zakończ na umotywowanym beacie."
+    },
+    "content": {
+      "en": "Create a 30-second, 16:9 television-drama opening in one coherent visual world. Begin with a quiet wide establishing shot at dawn, then track toward a lone character moving through a rain-wet urban street. Cut only when the story beat changes: a reflection reveals a second figure, the camera follows the protagonist under an awning, and a slow push-in lands on the character noticing an object in their hand. Preserve wardrobe, weather, architecture, and screen direction across the sequence. Use restrained natural color, dialogue-free ambience, footsteps, distant traffic, rain on metal, and one low musical swell at the final reveal. Keep the camera purposeful and the acting subtle; no captions, logos, or arbitrary scene resets.",
+      "es": "Crea una apertura de drama televisivo de 30 segundos, 16:9 y un solo mundo visual coherente. Empieza con un plano general tranquilo al amanecer y avanza hacia un personaje que camina por una calle urbana mojada. Corta solo cuando cambie el beat narrativo: un reflejo revela una segunda figura, la cámara sigue al protagonista bajo un toldo y un acercamiento lento termina cuando observa un objeto en su mano. Conserva vestuario, clima, arquitectura y dirección de pantalla. Usa color natural sobrio, pasos, lluvia sobre metal, tráfico lejano y una subida musical baja en la revelación final. Sin subtítulos, logotipos ni reinicios de escena arbitrarios.",
+      "pt": "Crie uma abertura de drama televisivo de 30 segundos, 16:9 e num único mundo visual coerente. Comece com um plano geral calmo ao amanhecer e aproxime-se de uma personagem que atravessa uma rua urbana molhada. Corte apenas quando o beat narrativo mudar: um reflexo revela uma segunda figura, a câmara acompanha o protagonista sob um toldo e um push-in lento termina quando ele repara num objeto na mão. Preserve roupa, clima, arquitetura e direção no ecrã. Use cor natural contida, passos, chuva no metal, trânsito distante e uma subida musical baixa na revelação final. Sem legendas, logótipos ou reinícios arbitrários.",
+      "it": "Crea un'apertura da drama televisivo di 30 secondi, 16:9, in un unico mondo visivo coerente. Inizia con un campo largo tranquillo all'alba e avanza verso un personaggio che attraversa una strada urbana bagnata. Taglia solo quando cambia il beat narrativo: un riflesso rivela una seconda figura, la camera segue il protagonista sotto una tettoia e un lento push-in termina quando nota un oggetto nella mano. Mantieni abiti, meteo, architettura e direzione dello sguardo. Usa colori naturali sobri, passi, pioggia sul metallo, traffico lontano e un basso crescendo musicale sulla rivelazione finale. Niente sottotitoli, loghi o reset arbitrari della scena.",
+      "de": "Erzeuge einen 30-sekündigen, 16:9 großen TV-Drama-Opener in einer kohärenten visuellen Welt. Beginne bei Tagesanbruch mit einer ruhigen Totalen und fahre auf eine Figur zu, die durch eine regennasse Stadtstraße geht. Schneide nur bei einem neuen Storybeat: Eine Spiegelung enthüllt eine zweite Figur, die Kamera folgt dem Protagonisten unter einem Vordach und ein langsamer Push-in endet, wenn er einen Gegenstand in der Hand bemerkt. Kleidung, Wetter, Architektur und Bildschirmrichtung bleiben stabil. Gedämpfte Naturfarben, Schritte, Regen auf Metall, ferner Verkehr und ein leiser musikalischer Anstieg bei der Enthüllung. Keine Untertitel, Logos oder beliebigen Szenen-Resets.",
+      "fr": "Créez une ouverture de drama télévisé de 30 secondes, au format 16:9, dans un monde visuel cohérent. Commencez par un plan large calme à l'aube, puis avancez vers un personnage qui marche dans une rue urbaine mouillée. Ne coupez qu'au changement de beat : un reflet révèle une seconde silhouette, la caméra suit le protagoniste sous un auvent et un lent push-in se termine lorsqu'il remarque un objet dans sa main. Préservez tenue, météo, architecture et direction à l'écran. Couleurs naturelles retenues, pas, pluie sur le métal, circulation lointaine et légère montée musicale lors de la révélation. Aucun sous-titre, logo ou réinitialisation arbitraire.",
+      "ar": "أنشئ افتتاحية دراما تلفزيونية مدتها 30 ثانية بنسبة 16:9 داخل عالم بصري متماسك. ابدأ بلقطة واسعة هادئة عند الفجر، ثم اقترب من شخصية تمشي في شارع حضري مبلل. لا تقطع إلا عند تغير الإيقاع السردي: يكشف انعكاس شخصية ثانية، وتتبع الكاميرا البطل تحت مظلة، وينتهي اقتراب بطيء عندما يلاحظ شيئًا في يده. حافظ على الملابس والطقس والهندسة واتجاه الشاشة. استخدم ألوانًا طبيعية هادئة وأصوات خطوات ومطر على المعدن ومرورًا بعيدًا وارتفاعًا موسيقيًا منخفضًا عند الكشف. بلا ترجمة أو شعارات أو إعادة ضبط عشوائية للمشهد.",
+      "ja": "ひとつの一貫した視覚世界で、30秒、16:9のテレビドラマのオープニングを作成する。夜明けの静かなワイドショットから始め、雨に濡れた都市の通りを歩く人物へ近づく。物語のビートが変わる時だけカットする。反射が2人目の人物を見せ、カメラは主人公を軒下まで追い、ゆっくり押し込んで手の中の物に気づく瞬間で止める。衣装、天候、建築、画面方向を維持する。抑えた自然色、足音、金属に当たる雨、遠い交通音、最後の reveal で低い音楽の上昇。字幕、ロゴ、不自然な場面リセットは入れない。",
+      "ko": "하나의 일관된 시각 세계에서 30초, 16:9 TV 드라마 오프닝을 만드세요. 새벽의 조용한 와이드 숏으로 시작해 비에 젖은 도시 거리를 걷는 인물에게 다가가세요. 이야기의 비트가 바뀔 때만 컷하세요. 반사에 두 번째 인물이 드러나고, 카메라는 주인공을 처마 아래로 따라가며, 느린 푸시인이 손에 든 물건을 알아차리는 순간에 멈춥니다. 의상, 날씨, 건축, 화면 방향을 보존하세요. 절제된 자연색, 발소리, 금속에 떨어지는 비, 먼 교통음, 마지막 reveal의 낮은 음악 상승을 사용하세요. 자막, 로고, 임의의 장면 리셋은 금지합니다.",
+      "zh": "制作一段 30 秒、16:9 的电视剧开场，所有内容处于同一个连贯的视觉世界。用黎明时安静的大全景开场，随后推向一个走在雨湿城市街道上的人物。只在叙事节拍变化时剪辑：倒影揭示第二个人物，镜头跟随主角走到遮雨棚下，缓慢推进在他注意到手中物件的瞬间结束。保持服装、天气、建筑和屏幕方向一致。使用克制的自然色、脚步声、雨打金属声、远处交通声，以及揭示时低沉的音乐上扬。不要字幕、标志或任意重置场景。",
+      "nl": "Maak een opening van 30 seconden, 16:9 voor televisiedrama in één coherente visuele wereld. Begin bij zonsopgang met een rustig totaalbeeld en beweeg naar een personage dat door een natte stadsstraat loopt. Knip alleen wanneer de verhaalbeat verandert: een reflectie onthult een tweede figuur, de camera volgt de hoofdpersoon onder een afdak en een langzame push-in eindigt wanneer die een voorwerp in de hand opmerkt. Behoud kleding, weer, architectuur en schermrichting. Gebruik ingetogen natuurlijke kleuren, voetstappen, regen op metaal, ver verkeer en een lage muzikale zwelling bij de onthulling. Geen ondertitels, logo's of willekeurige resets.",
+      "ru": "Создай вступление теледрамы длительностью 30 секунд, 16:9, в одном цельном визуальном мире. Начни со спокойного общего плана на рассвете и приблизься к персонажу, идущему по мокрой городской улице. Монтируй только при смене сюжетного бита: отражение показывает вторую фигуру, камера следует за героем под навес, а медленный push-in заканчивается, когда герой замечает предмет в руке. Сохрани одежду, погоду, архитектуру и направление на экране. Используй сдержанные естественные цвета, шаги, дождь по металлу, дальний трафик и тихое музыкальное нарастание в момент раскрытия. Без субтитров, логотипов и произвольного сброса сцены.",
+      "tr": "Tek ve tutarlı bir görsel dünyada 30 saniyelik, 16:9 televizyon draması açılışı oluştur. Şafakta sakin geniş planla başla ve yağmurla ıslanmış şehir sokağında yürüyen karaktere yaklaş. Yalnızca anlatı vuruşu değiştiğinde kes: yansıma ikinci figürü gösterir, kamera başkarakteri saçak altına kadar izler ve yavaş bir push-in onun elindeki nesneyi fark ettiği anda biter. Kıyafeti, havayı, mimariyi ve ekran yönünü koru. Sade doğal renkler, adımlar, metale vuran yağmur, uzaktaki trafik ve son açığa çıkarmada alçak müzikal yükseliş kullan. Altyazı, logo veya rastgele sahne sıfırlaması olmasın.",
+      "pl": "Stwórz 30-sekundowe otwarcie dramatu telewizyjnego 16:9 w jednym spójnym świecie wizualnym. Zacznij od spokojnego szerokiego planu o świcie i zbliż się do postaci idącej mokrą miejską ulicą. Tnij tylko przy zmianie beatu: odbicie ujawnia drugą postać, kamera podąża za bohaterem pod zadaszenie, a powolny push-in kończy się, gdy bohater zauważa przedmiot w dłoni. Zachowaj ubranie, pogodę, architekturę i kierunek na ekranie. Użyj stonowanych naturalnych kolorów, kroków, deszczu na metalu, odległego ruchu ulicznego i niskiego muzycznego narastania przy ujawnieniu. Bez napisów, logo i przypadkowych resetów sceny."
+    },
+    "sourceLink": "https://x.com/wavespeed_ai/status/2084965430687588477",
+    "sourcePublishedAt": "2026-08-05T11:31:10.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2084964593970118656/img/Cs_-4_9Ipy0tYbig.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2084964593970118656/vid/avc1/1920x1080/O-G6eb25Vmm-HSLT.mp4?tag=29",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084964593970118656/img/Cs_-4_9Ipy0tYbig.jpg"
+    },
+    "author": {
+      "name": "WaveSpeed AI",
+      "link": "https://x.com/wavespeed_ai"
+    },
+    "language": "en",
+    "featured": true,
+    "sort": 3,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2084965430687588477",
+      "prompt_source": "rewritten_from_showcase",
+      "model_evidence": "wan-3.0",
+      "likeCount": 89,
+      "bookmarkCount": 33,
+      "viewCount": 8210,
+      "input_mode": "text-to-video",
+      "curation_note": "WaveSpeed's X post states that the clip recreates a TV-drama-style opening with the same prompt. The creator prompt was not published, so this is explicitly an editorial reconstruction of the observable directing pattern."
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 61,
+          "title": "Camera Paths & Shot Pacing",
+          "slug": "camera-direction-shot-design"
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "model": "wan-3.0",
+    "title": {
+      "en": "Character, location, and voice assembled from separate references",
+      "es": "Personaje, lugar y voz ensamblados desde referencias separadas",
+      "pt": "Personagem, local e voz montados a partir de referências separadas",
+      "it": "Personaggio, luogo e voce assemblati da riferimenti separati",
+      "de": "Figur, Ort und Stimme aus getrennten Referenzen verbinden",
+      "fr": "Personnage, lieu et voix assemblés depuis des références séparées",
+      "ar": "تجميع الشخصية والمكان والصوت من مراجع منفصلة",
+      "ja": "別々のリファレンスから人物、場所、声を組み立てる",
+      "ko": "분리된 레퍼런스로 인물, 장소, 목소리 조립",
+      "zh": "从分离的参考素材组装人物、地点和声音",
+      "nl": "Personage, locatie en stem uit losse referenties samenbrengen",
+      "ru": "Собрать персонажа, место и голос из отдельных референсов",
+      "tr": "Ayrı referanslardan karakter, konum ve ses kurma",
+      "pl": "Postać, miejsce i głos z oddzielnych referencji"
+    },
+    "description": {
+      "en": "A reusable multimodal brief derived from PixelDojo's Wan 3.0 capability note: assign identity, setting, and voice to separate inputs while spelling out the continuity rules.",
+      "es": "Un brief multimodal reutilizable derivado de la nota de capacidades de PixelDojo: asigna identidad, escenario y voz a entradas distintas y explicita las reglas de continuidad.",
+      "pt": "Um briefing multimodal reutilizável derivado da nota de capacidades da PixelDojo: atribui identidade, cenário e voz a entradas diferentes e explicita as regras de continuidade.",
+      "it": "Un brief multimodale riutilizzabile derivato dalla nota di capacità di PixelDojo: assegna identità, ambiente e voce a input distinti e dichiara le regole di continuità.",
+      "de": "Ein wiederverwendbares multimodales Briefing nach PixelDojos Fähigkeitsnotiz: Identität, Schauplatz und Stimme kommen aus getrennten Eingaben und werden durch Kontinuitätsregeln verbunden.",
+      "fr": "Un brief multimodal réutilisable inspiré de la note de capacités de PixelDojo : identité, décor et voix viennent d'entrées distinctes, avec des règles de continuité explicites.",
+      "ar": "موجز متعدد الوسائط قابل لإعادة الاستخدام مستمد من ملاحظة قدرات PixelDojo: تُسند الهوية والموقع والصوت إلى مدخلات مختلفة مع توضيح قواعد الاستمرارية.",
+      "ja": "PixelDojoの能力説明から再構成した再利用可能なマルチモーダルブリーフ。別々の入力に人物、場所、声を割り当て、連続性のルールを明示する。",
+      "ko": "PixelDojo의 기능 설명에서 재구성한 재사용 가능한 멀티모달 브리프입니다. 서로 다른 입력에 인물, 장소, 목소리를 지정하고 연속성 규칙을 명시합니다.",
+      "zh": "根据 PixelDojo 的能力说明重构的一份可复用多模态简报：用不同输入分别指定身份、地点和声音，并明确连续性规则。",
+      "nl": "Een herbruikbare multimodale briefing op basis van PixelDojo's capaciteitsnotitie: identiteit, omgeving en stem komen uit aparte inputs met expliciete continuïteitsregels.",
+      "ru": "Многошаговый бриф по мотивам описания возможностей PixelDojo: личность, локация и голос приходят из разных входов, а правила непрерывности прописаны явно.",
+      "tr": "PixelDojo yetenek notundan türetilmiş tekrar kullanılabilir çok modlu brif: kimliği, ortamı ve sesi farklı girdilere atar ve süreklilik kurallarını açıklar.",
+      "pl": "Wielomodalny brief do ponownego użycia, zrekonstruowany na podstawie notatki PixelDojo: osobne wejścia dostarczają tożsamość, lokację i głos, a zasady ciągłości są jawne."
+    },
+    "content": {
+      "en": "Create a 20-second, 16:9 cinematic scene from three references: image 1 supplies the character identity, image 2 supplies the location, and audio 1 supplies the speaking voice. Let the character walk from the foreground into the referenced location, turn toward camera, and deliver one short natural line from the audio reference. Preserve the character's face, hair, clothing, scale, spatial relationship to the environment, and vocal identity from start to finish. Use a slow lateral camera move that becomes a gentle push-in at the line. Match the lighting and perspective of the references, add quiet room tone and footsteps, and keep the performance restrained. No identity drift, extra people, text, or watermark.",
+      "es": "Crea una escena cinematográfica de 20 segundos, 16:9, usando tres referencias: la imagen 1 aporta la identidad del personaje, la imagen 2 aporta el lugar y el audio 1 aporta la voz. Haz que el personaje camine desde el primer plano hacia el lugar de referencia, gire hacia la cámara y diga una frase breve y natural con la voz de referencia. Conserva rostro, pelo, ropa, escala, relación espacial y voz durante todo el clip. Usa un movimiento lateral lento que se convierta en un acercamiento suave durante la frase. Iguala luz y perspectiva, añade ambiente y pasos. Sin deriva de identidad, personas extra, texto ni marca de agua.",
+      "pt": "Crie uma cena cinematográfica de 20 segundos, 16:9, usando três referências: a imagem 1 fornece a identidade, a imagem 2 fornece o local e o áudio 1 fornece a voz. Faça a personagem caminhar do primeiro plano para o local de referência, virar-se para a câmara e dizer uma frase curta e natural com a voz de referência. Preserve rosto, cabelo, roupa, escala, relação espacial e identidade vocal. Use um movimento lateral lento que se transforma num push-in suave durante a frase. Iguale luz e perspetiva, adicione ambiente e passos. Sem deriva de identidade, pessoas extra, texto ou marca de água.",
+      "it": "Crea una scena cinematografica di 20 secondi, 16:9, usando tre riferimenti: l'immagine 1 fornisce l'identità del personaggio, l'immagine 2 il luogo e l'audio 1 la voce. Fai camminare il personaggio dal primo piano verso l'ambiente di riferimento, poi girare verso la camera e pronunciare una frase breve e naturale con la voce di riferimento. Mantieni volto, capelli, abiti, scala, rapporto spaziale e identità vocale per tutto il clip. Usa un lento movimento laterale che diventa un push-in morbido durante la battuta. Abbina luce e prospettiva, aggiungi ambiente e passi. Niente deriva dell'identità, persone extra, testo o watermark.",
+      "de": "Erzeuge eine 20-sekündige, 16:9 große Filmszene aus drei Referenzen: Bild 1 liefert die Identität, Bild 2 den Ort und Audio 1 die Stimme. Die Figur geht aus dem Vordergrund in den Referenzort, dreht sich zur Kamera und spricht einen kurzen natürlichen Satz mit der Referenzstimme. Gesicht, Haare, Kleidung, Maßstab, räumliche Beziehung und Stimmidentität bleiben durchgehend erhalten. Eine langsame seitliche Kamerafahrt wird während des Satzes zu einem sanften Push-in. Licht und Perspektive der Referenzen angleichen, Raumton und Schritte ergänzen. Keine Identitätsdrift, zusätzlichen Personen, Texte oder Wasserzeichen.",
+      "fr": "Créez une scène cinématographique de 20 secondes, au format 16:9, à partir de trois références : l'image 1 fournit l'identité du personnage, l'image 2 le lieu et l'audio 1 la voix. Faites marcher le personnage du premier plan vers le décor de référence, se tourner vers la caméra et prononcer une phrase courte et naturelle avec la voix de référence. Préservez visage, cheveux, vêtements, échelle, relation spatiale et identité vocale pendant tout le clip. Utilisez un mouvement latéral lent qui devient un push-in doux pendant la phrase. Faites correspondre lumière et perspective, ajoutez ambiance et pas. Aucun glissement d'identité, figurant supplémentaire, texte ou filigrane.",
+      "ar": "أنشئ مشهدًا سينمائيًا مدته 20 ثانية بنسبة 16:9 من ثلاثة مراجع: الصورة 1 تمنح هوية الشخصية، والصورة 2 تمنح الموقع، والصوت 1 يمنح صوت الكلام. اجعل الشخصية تمشي من المقدمة إلى الموقع المرجعي، ثم تلتفت إلى الكاميرا وتقول جملة قصيرة طبيعية بالصوت المرجعي. حافظ على الوجه والشعر والملابس والمقياس والعلاقة المكانية والهوية الصوتية طوال المقطع. استخدم حركة جانبية بطيئة تتحول إلى اقتراب لطيف أثناء الجملة. طابق الإضاءة والمنظور وأضف صوت المكان والخطوات. بلا تغير للهوية أو أشخاص إضافيين أو نص أو علامة مائية.",
+      "ja": "3つのリファレンスから20秒、16:9のシネマティックなシーンを作成する。画像1は人物のアイデンティティ、画像2は場所、音声1は話し声を提供する。人物を前景から参照場所へ歩かせ、カメラを振り返らせ、参照音声で短く自然な台詞を言わせる。顔、髪、服、スケール、空間関係、声のアイデンティティを全編で維持する。ゆっくりした横移動を台詞の間に穏やかなプッシュインへ変える。光と遠近をリファレンスに合わせ、環境音と足音を加える。アイデンティティの変化、余分な人物、文字、透かしは不可。",
+      "ko": "세 개의 레퍼런스로 20초, 16:9 시네마틱 장면을 만드세요. 이미지 1은 인물의 정체성, 이미지 2는 장소, 오디오 1은 말하는 목소리를 제공합니다. 인물이 전경에서 참조 장소로 걸어가 카메라를 향해 돌아서고 참조 음성으로 짧고 자연스러운 문장을 말하게 하세요. 얼굴, 머리카락, 옷, 크기, 공간 관계, 목소리 정체성을 끝까지 유지하세요. 느린 측면 이동을 문장 중 부드러운 푸시인으로 바꾸세요. 레퍼런스의 빛과 원근을 맞추고 공간음과 발소리를 추가하세요. 정체성 변화, 추가 인물, 텍스트, 워터마크는 금지합니다.",
+      "zh": "使用三份参考素材制作一段 20 秒、16:9 的电影感场景：图像 1 提供人物身份，图像 2 提供地点，音频 1 提供说话声音。让人物从前景走入参考地点，转向镜头，并用参考声音说出一句短而自然的台词。全程保持面孔、头发、服装、尺度、空间关系和声音身份一致。使用缓慢的横向移动，在台词时转为柔和推进。匹配参考素材的光线和透视，加入环境声和脚步声。不要身份漂移、额外人物、文字或水印。",
+      "nl": "Maak een filmische scène van 20 seconden, 16:9, met drie referenties: afbeelding 1 levert de identiteit, afbeelding 2 de locatie en audio 1 de stem. Laat het personage van de voorgrond naar de referentielocatie lopen, naar de camera draaien en één korte natuurlijke zin met de referentiestem zeggen. Behoud gezicht, haar, kleding, schaal, ruimtelijke relatie en stemidentiteit. Gebruik een langzame zijwaartse camerabeweging die tijdens de zin een zachte push-in wordt. Pas licht en perspectief aan, voeg ruimtegeluid en voetstappen toe. Geen identiteitsdrift, extra mensen, tekst of watermerk.",
+      "ru": "Создай кинематографичную сцену длительностью 20 секунд, 16:9, используя три референса: изображение 1 задаёт личность персонажа, изображение 2 — место, аудио 1 — голос. Пусть персонаж выйдет с переднего плана в референсную локацию, повернётся к камере и произнесёт короткую естественную фразу референсным голосом. Сохраняй лицо, волосы, одежду, масштаб, пространственную связь и голосовую личность. Медленное боковое движение камеры во время фразы переходит в мягкий push-in. Сопоставь свет и перспективу, добавь атмосферу и шаги. Без дрейфа личности, лишних людей, текста и водяного знака.",
+      "tr": "Üç referansla 20 saniyelik, 16:9 sinematik bir sahne oluştur: görüntü 1 karakter kimliğini, görüntü 2 konumu, ses 1 konuşma sesini sağlar. Karakter ön plandan referans konuma yürüsün, kameraya dönsün ve referans sesle kısa doğal bir cümle söylesin. Yüzü, saçı, kıyafeti, ölçeği, mekânsal ilişkisi ve ses kimliğini baştan sona koru. Yavaş yanal kamera hareketini cümle sırasında yumuşak push-in'e dönüştür. Referansların ışığını ve perspektifini eşleştir, ortam sesi ve adımlar ekle. Kimlik kayması, fazladan kişiler, metin veya filigran olmasın.",
+      "pl": "Stwórz 20-sekundową scenę kinową 16:9 z trzech referencji: obraz 1 dostarcza tożsamość postaci, obraz 2 miejsce, a audio 1 głos. Niech postać przejdzie z pierwszego planu do referencyjnej lokacji, odwróci się do kamery i wypowie krótkie, naturalne zdanie referencyjnym głosem. Zachowaj twarz, włosy, ubranie, skalę, relację przestrzenną i tożsamość głosu przez cały klip. Użyj powolnego ruchu bocznego, który podczas wypowiedzi przechodzi w łagodny push-in. Dopasuj światło i perspektywę, dodaj dźwięk otoczenia i kroki. Bez dryfu tożsamości, dodatkowych osób, tekstu i znaku wodnego."
+    },
+    "sourceLink": "https://x.com/PixelDojoAI/status/2083212955072807175",
+    "sourcePublishedAt": "2026-07-31T15:27:27.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2083212925255446528/img/XZ674J3NnC6mpSLI.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2083212925255446528/vid/avc1/1280x720/QK8mfQ6SmZT9g0RO.mp4?tag=29",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083212925255446528/img/XZ674J3NnC6mpSLI.jpg"
+    },
+    "author": {
+      "name": "PixelDojo",
+      "link": "https://x.com/PixelDojoAI"
+    },
+    "language": "en",
+    "featured": true,
+    "sort": 4,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2083212955072807175",
+      "prompt_source": "rewritten_from_capability_brief",
+      "model_evidence": "wan-3.0",
+      "likeCount": 7,
+      "bookmarkCount": 0,
+      "viewCount": 587,
+      "input_mode": "multimodal-reference",
+      "curation_note": "PixelDojo's X post describes separate image, video, and audio references, consistency, framing, and native sound. No creator prompt was published, so this entry is a clearly labeled workflow reconstruction rather than a verbatim prompt."
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Reference-Led Continuity",
+          "slug": "image-to-video-subject-continuity"
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "model": "wan-3.0",
+    "title": {
+      "en": "Vertical story test with deliberate camera logic",
+      "es": "Prueba narrativa vertical con lógica de cámara deliberada",
+      "pt": "Teste narrativo vertical com lógica de câmara deliberada",
+      "it": "Test narrativo verticale con logica di camera intenzionale",
+      "de": "Vertikaler Story-Test mit bewusster Kameralogik",
+      "fr": "Test narratif vertical avec logique de caméra maîtrisée",
+      "ar": "اختبار قصة عمودي بمنطق كاميرا مقصود",
+      "ja": "意図したカメラロジックによる縦型ストーリーテスト",
+      "ko": "의도적인 카메라 논리를 가진 세로형 스토리 테스트",
+      "zh": "用明确镜头逻辑完成竖屏故事测试",
+      "nl": "Verticale verhaaltest met bewuste cameraredenering",
+      "ru": "Вертикальный сюжетный тест с осмысленной камерой",
+      "tr": "Kasıtlı kamera mantığıyla dikey hikâye testi",
+      "pl": "Pionowy test historii z celową logiką kamery"
+    },
+    "description": {
+      "en": "A source-backed reconstruction for a vertical same-prompt comparison, organized around one character, a clear escalation, and a camera move that serves the story instead of chasing spectacle.",
+      "es": "Reconstrucción basada en una comparación vertical con el mismo prompt: un personaje, una escalada clara y una cámara que sirve a la historia en vez de perseguir el espectáculo.",
+      "pt": "Reconstrução baseada numa comparação vertical com o mesmo prompt: uma personagem, uma escalada clara e uma câmara que serve a história em vez de perseguir o espetáculo.",
+      "it": "Ricostruzione basata su un confronto verticale con lo stesso prompt: un personaggio, un'escalation chiara e una camera al servizio della storia.",
+      "de": "Eine Rekonstruktion aus einem vertikalen Same-Prompt-Vergleich: eine Figur, eine klare Steigerung und eine Kamera, die der Geschichte statt dem Spektakel dient.",
+      "fr": "Reconstruction issue d'une comparaison verticale avec le même prompt : un personnage, une montée claire et une caméra au service du récit plutôt que du spectacle.",
+      "ar": "إعادة بناء من مقارنة عمودية بنفس الموجّه: شخصية واحدة وتصاعد واضح وكاميرا تخدم القصة بدل مطاردة الاستعراض.",
+      "ja": "同じプロンプトを使った縦型比較から再構成した、人物1人、明確なエスカレーション、見せ場より物語に奉仕するカメラのテスト。",
+      "ko": "한 프롬프트로 만든 세로형 비교에서 재구성한 케이스입니다. 한 인물, 명확한 고조, 장관보다 이야기를 위한 카메라를 중심으로 합니다.",
+      "zh": "根据一次同提示词竖屏对比重构：一个人物、清晰升级，以及服务叙事而不是追逐炫技的镜头。",
+      "nl": "Een reconstructie uit een verticale vergelijking met dezelfde prompt: één personage, duidelijke escalatie en een camera die het verhaal dient in plaats van spektakel.",
+      "ru": "Реконструкция вертикального сравнения с одним промптом: один персонаж, ясное нарастание и камера, служащая истории, а не эффектности.",
+      "tr": "Aynı promptlu dikey karşılaştırmadan yeniden kurulan test: tek karakter, net bir yükseliş ve gösteriş yerine hikâyeye hizmet eden kamera.",
+      "pl": "Rekonstrukcja pionowego porównania z tym samym promptem: jedna postać, wyraźna eskalacja i kamera służąca historii, a nie samemu widowisku."
+    },
+    "content": {
+      "en": "Create a 15-second, 9:16 vertical narrative test. Start on a medium shot of a courier waiting beneath a flickering street sign at night. At 0-4 seconds, hold the tension with a slow push-in and distant traffic. At 4-8 seconds, a second figure crosses the background; pan just enough to reveal the courier's reaction. At 8-12 seconds, track backward as the courier runs through a narrow passage, preserving the red jacket and wet pavement. At 12-15 seconds, rise into a compact overhead reveal of the exit and the approaching dawn. Keep screen direction, body identity, lighting, and geography stable. Use footsteps, fabric movement, rain, and one restrained musical pulse. No random cuts, text, captions, or watermark.",
+      "es": "Crea una prueba narrativa vertical de 15 segundos, 9:16. Empieza con un plano medio de un mensajero bajo un letrero parpadeante durante la noche. De 0 a 4 segundos, mantén la tensión con un acercamiento lento y tráfico lejano. De 4 a 8, una segunda figura cruza el fondo; desplaza la cámara solo lo suficiente para revelar la reacción. De 8 a 12, retrocede mientras el mensajero corre por un pasaje estrecho, conservando la chaqueta roja y el pavimento mojado. De 12 a 15, sube a una vista cenital compacta de la salida y el amanecer. Mantén dirección, identidad, luz y geografía. Usa pasos, tela, lluvia y un pulso musical sutil. Sin cortes aleatorios, texto ni marca de agua.",
+      "pt": "Crie um teste narrativo vertical de 15 segundos, 9:16. Comece num plano médio de um estafeta sob um letreiro intermitente à noite. De 0 a 4 segundos, mantenha a tensão com um push-in lento e trânsito distante. De 4 a 8, uma segunda figura atravessa o fundo; faça apenas um pan suficiente para revelar a reação do estafeta. De 8 a 12, recue enquanto ele corre por uma passagem estreita, preservando o casaco vermelho e o pavimento molhado. De 12 a 15, suba para uma revelação aérea compacta da saída e do amanhecer. Mantenha direção, identidade, luz e geografia. Use passos, tecido, chuva e um pulso musical discreto. Sem cortes aleatórios, texto ou marca de água.",
+      "it": "Crea un test narrativo verticale di 15 secondi, 9:16. Inizia su un piano medio di un corriere sotto un'insegna intermittente di notte. Da 0 a 4 secondi mantieni la tensione con un lento push-in e traffico lontano. Da 4 a 8 una seconda figura attraversa lo sfondo; fai un pan appena sufficiente a rivelare la reazione del corriere. Da 8 a 12 arretra mentre corre in un passaggio stretto, preservando giacca rossa e pavimento bagnato. Da 12 a 15 sali in una compatta vista dall'alto dell'uscita e dell'alba. Mantieni direzione, identità, luce e geografia. Usa passi, tessuto, pioggia e un impulso musicale discreto. Niente tagli casuali, testo o watermark.",
+      "de": "Erzeuge einen 15-sekündigen, vertikalen Story-Test im Format 9:16. Beginne mit einer Halbtotalen eines Kuriers unter einem flackernden Straßenschild bei Nacht. 0–4 Sekunden: Spannung mit langsamem Push-in und fernem Verkehr halten. 4–8: Eine zweite Figur überquert den Hintergrund; nur so weit schwenken, dass die Reaktion des Kuriers sichtbar wird. 8–12: rückwärts fahren, während der Kurier durch eine enge Passage läuft; rote Jacke und nasser Boden bleiben erhalten. 12–15: zu einer kompakten Draufsicht auf Ausgang und Morgenlicht steigen. Richtung, Identität, Licht und Geografie stabil halten. Schritte, Stoff, Regen und ein zurückhaltender Musikimpuls. Keine zufälligen Schnitte, Texte oder Wasserzeichen.",
+      "fr": "Créez un test narratif vertical de 15 secondes, au format 9:16. Commencez sur un plan moyen d'un coursier sous une enseigne clignotante, la nuit. De 0 à 4 secondes, gardez la tension avec un lent push-in et la circulation au loin. De 4 à 8, une seconde silhouette traverse le fond ; panoramique juste assez pour révéler la réaction du coursier. De 8 à 12, reculez alors qu'il court dans un passage étroit, en conservant la veste rouge et le sol mouillé. De 12 à 15, montez vers une révélation aérienne compacte de la sortie et de l'aube. Gardez direction, identité, lumière et géographie stables. Pas, tissu, pluie et impulsion musicale discrète. Aucun cut aléatoire, texte ou filigrane.",
+      "ar": "أنشئ اختبارًا سرديًا عموديًا مدته 15 ثانية بنسبة 9:16. ابدأ بلقطة متوسطة لساعي بريد تحت لافتة شارع وامضة ليلًا. من 0 إلى 4 ثوانٍ حافظ على التوتر باقتراب بطيء ومرور بعيد. من 4 إلى 8 تعبر شخصية ثانية الخلفية؛ حرّك الكاميرا بقدر يكشف رد فعل الساعي فقط. من 8 إلى 12 تراجع بينما يركض الساعي في ممر ضيق، مع الحفاظ على السترة الحمراء والأرض المبتلة. من 12 إلى 15 اصعد إلى كشف علوي صغير للمخرج والفجر. ثبّت الاتجاه والهوية والضوء والجغرافيا. استخدم خطوات وحركة قماش ومطرًا ونبضة موسيقية هادئة. بلا قطع عشوائية أو نص أو علامة مائية.",
+      "ja": "15秒、9:16の縦型ナラティブテストを作成する。夜、点滅する街灯の下で待つ配達員をミディアムショットで始める。0〜4秒はゆっくりしたプッシュインと遠い交通音で緊張を保つ。4〜8秒、背景を2人目の人物が横切る。配達員の反応が分かるだけの小さなパンを行う。8〜12秒、赤いジャケットと濡れた路面を維持しながら狭い通路を走る配達員を後退追跡する。12〜15秒、出口と夜明けをコンパクトな俯瞰で見せる。方向、人物、光、地理を固定し、足音、布、雨、控えめな音楽の脈動を使う。ランダムなカット、文字、透かしは不可。",
+      "ko": "15초, 9:16 세로형 내러티브 테스트를 만드세요. 밤에 깜빡이는 거리 표지판 아래 기다리는 배달원을 미디엄 숏으로 시작하세요. 0~4초는 느린 푸시인과 먼 교통음으로 긴장을 유지합니다. 4~8초에는 두 번째 인물이 배경을 가로지르고, 배달원의 반응이 보일 만큼만 팬하세요. 8~12초에는 빨간 재킷과 젖은 바닥을 유지하며 좁은 통로를 달리는 배달원을 뒤로 트래킹하세요. 12~15초에는 출구와 새벽을 작은 탑숏으로 보여 주세요. 방향, 정체성, 빛과 공간을 고정하고 발소리, 천, 비, 절제된 음악 펄스를 사용하세요. 무작위 컷, 텍스트, 워터마크는 금지합니다.",
+      "zh": "制作一段 15 秒、9:16 的竖屏叙事测试。夜晚从一名快递员在闪烁街牌下等待的中景开始。0 到 4 秒，用缓慢推进和远处交通声保持紧张。4 到 8 秒，第二个人物穿过背景；只做足以显出快递员反应的小幅摇摄。8 到 12 秒，镜头后退跟随快递员穿过狭窄通道，保持红色夹克和湿地面。12 到 15 秒，升到一个紧凑的俯拍，揭示出口和黎明。保持方向、身份、光线和空间地理一致，使用脚步、布料、雨声和克制的音乐脉冲。不要随机剪切、文字或水印。",
+      "nl": "Maak een verticale narratieve test van 15 seconden, 9:16. Begin met een medium shot van een koerier onder een flikkerend straatbord in de nacht. Houd van 0 tot 4 seconden de spanning met een langzame push-in en ver verkeer. Van 4 tot 8 loopt een tweede figuur door de achtergrond; pan alleen genoeg om de reactie van de koerier te tonen. Van 8 tot 12 volg je achteruit terwijl de koerier door een smalle doorgang rent, met behoud van de rode jas en natte bestrating. Van 12 tot 15 stijg je naar een compacte overhead-onthulling van de uitgang en de dageraad. Houd richting, identiteit, licht en geografie stabiel. Gebruik voetstappen, stof, regen en een ingetogen muziekpuls. Geen willekeurige cuts, tekst of watermerk.",
+      "ru": "Создай вертикальный сюжетный тест длительностью 15 секунд, 9:16. Начни со среднего плана курьера под мерцающим уличным знаком ночью. В 0–4 секунды удерживай напряжение медленным push-in и дальним трафиком. В 4–8 секунд в фоне проходит вторая фигура; сделай панораму только настолько, чтобы показать реакцию курьера. В 8–12 секунд отъезжай назад, пока курьер бежит по узкому проходу, сохраняя красную куртку и мокрый асфальт. В 12–15 секунд поднимись к компактному верхнему раскрытию выхода и рассвета. Сохраняй направление, личность, свет и географию. Используй шаги, ткань, дождь и сдержанный музыкальный импульс. Без случайных склеек, текста и водяного знака.",
+      "tr": "15 saniyelik, 9:16 dikey anlatı testi oluştur. Gece, yanıp sönen sokak tabelasının altında bekleyen kuryeyi orta planla başlat. 0–4 saniyede yavaş push-in ve uzaktaki trafikle gerilimi tut. 4–8 saniyede ikinci figür arka plandan geçsin; yalnızca kuryenin tepkisini gösterecek kadar pan yap. 8–12 saniyede kırmızı ceketi ve ıslak zemini koruyarak dar geçitte koşan kuryeyi geriye doğru takip et. 12–15 saniyede çıkışı ve şafağı kompakt üst açıyla açığa çıkar. Yönü, kimliği, ışığı ve coğrafyayı sabit tut. Adım, kumaş, yağmur ve ölçülü bir müzik darbesi kullan. Rastgele kesme, metin veya filigran olmasın.",
+      "pl": "Stwórz 15-sekundowy pionowy test narracyjny 9:16. Zacznij od średniego ujęcia kuriera czekającego nocą pod migającym znakiem ulicznym. Od 0 do 4 sekund utrzymaj napięcie powolnym push-inem i odległym ruchem ulicznym. Od 4 do 8 druga postać przechodzi w tle; wykonaj tylko taki pan, by pokazać reakcję kuriera. Od 8 do 12 cofaj kamerę, gdy kurier biegnie wąskim przejściem, zachowując czerwoną kurtkę i mokrą nawierzchnię. Od 12 do 15 wznieś się do zwartego ujęcia z góry ujawniającego wyjście i świt. Zachowaj kierunek, tożsamość, światło i geografię. Użyj kroków, ruchu tkaniny, deszczu i powściągliwego impulsu muzycznego. Bez losowych cięć, tekstu i znaku wodnego."
+    },
+    "sourceLink": "https://x.com/wavespeed_ai/status/2085025284378538045",
+    "sourcePublishedAt": "2026-08-05T15:29:00.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2085020209925210112/img/TUR8ROJJ4D0fV7V_.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2085020209925210112/vid/avc1/1920x3238/ltuegtJLzV0abXY_.mp4?tag=29",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085020209925210112/img/TUR8ROJJ4D0fV7V_.jpg"
+    },
+    "author": {
+      "name": "WaveSpeed AI",
+      "link": "https://x.com/wavespeed_ai"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 5,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2085025284378538045",
+      "prompt_source": "rewritten_from_comparison_showcase",
+      "model_evidence": "wan-3.0",
+      "likeCount": 68,
+      "bookmarkCount": 29,
+      "viewCount": 6968,
+      "input_mode": "text-to-video",
+      "curation_note": "WaveSpeed published a same-prompt, same-scene comparison and asked viewers to judge story understanding, camera movement, and detail. The original prompt is not public; this entry isolates the camera-and-story pattern as a reconstruction."
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 61,
+          "title": "Camera Paths & Shot Pacing",
+          "slug": "camera-direction-shot-design"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "model": "wan-3.0",
+    "title": {
+      "en": "Native-audio early-access scene with timed sound cues",
+      "es": "Escena de acceso temprano con audio nativo y señales temporizadas",
+      "pt": "Cena de acesso antecipado com áudio nativo e marcas temporais",
+      "it": "Scena in accesso anticipato con audio nativo e cue temporizzati",
+      "de": "Early-Access-Szene mit nativem Ton und getakteten Klangsignalen",
+      "fr": "Scène en accès anticipé avec audio natif et repères temporels",
+      "ar": "مشهد وصول مبكر بصوت أصلي وإشارات زمنية",
+      "ja": "ネイティブ音声と時間指定の音キューを使う早期アクセスシーン",
+      "ko": "네이티브 오디오와 시간별 사운드 큐를 쓰는 얼리 액세스 장면",
+      "zh": "带原生音频和时间提示的早期体验场景",
+      "nl": "Early-accessscène met native audio en getimede cues",
+      "ru": "Сцена раннего доступа с нативным звуком и таймкодами",
+      "tr": "Yerel ses ve zamanlı ses işaretleriyle erken erişim sahnesi",
+      "pl": "Scena wczesnego dostępu z natywnym audio i cue czasowymi"
+    },
+    "description": {
+      "en": "A source-backed reconstruction shaped around the early-access post's text-to-video, image-to-video, 1080p, 30-second, and native-sound claims, with audio treated as part of the brief rather than post-production.",
+      "es": "Reconstrucción basada en una publicación de acceso temprano que menciona texto a vídeo, imagen a vídeo, 1080p, 30 segundos y sonido nativo, tratando el audio como parte del brief.",
+      "pt": "Reconstrução baseada numa publicação de acesso antecipado que menciona texto para vídeo, imagem para vídeo, 1080p, 30 segundos e som nativo, tratando o áudio como parte do briefing.",
+      "it": "Ricostruzione basata su un post di accesso anticipato che cita testo-video, immagine-video, 1080p, 30 secondi e suono nativo, trattando l'audio come parte del brief.",
+      "de": "Eine Rekonstruktion nach einem Early-Access-Post, der Text-zu-Video, Bild-zu-Video, 1080p, 30 Sekunden und nativen Ton nennt; Audio wird als Teil des Briefings behandelt.",
+      "fr": "Reconstruction fondée sur un post d'accès anticipé mentionnant texte-vers-vidéo, image-vers-vidéo, 1080p, 30 secondes et son natif ; l'audio fait partie du brief.",
+      "ar": "إعادة بناء مستندة إلى منشور وصول مبكر يذكر النص إلى الفيديو والصورة إلى الفيديو و1080p و30 ثانية والصوت الأصلي، مع اعتبار الصوت جزءًا من الموجز.",
+      "ja": "テキストから動画、画像から動画、1080p、30秒、ネイティブ音声を示した早期アクセス投稿からの再構成。音をブリーフの一部として扱う。",
+      "ko": "텍스트 투 비디오, 이미지 투 비디오, 1080p, 30초, 네이티브 사운드를 언급한 얼리 액세스 게시물에서 재구성했습니다. 오디오를 브리프의 일부로 취급합니다.",
+      "zh": "根据一条提到文生视频、图生视频、1080p、30 秒和原生声音的早期体验帖重构，并把音频视为简报的一部分。",
+      "nl": "Een reconstructie op basis van een early-accesspost die tekst-naar-video, beeld-naar-video, 1080p, 30 seconden en native geluid noemt; audio blijft onderdeel van de briefing.",
+      "ru": "Реконструкция по посту раннего доступа, где упомянуты text-to-video, image-to-video, 1080p, 30 секунд и нативный звук; аудио остаётся частью брифа.",
+      "tr": "Metinden videoya, görüntüden videoya, 1080p, 30 saniye ve yerel sesten söz eden erken erişim gönderisinden yeniden kuruldu; ses brifin parçasıdır.",
+      "pl": "Rekonstrukcja na podstawie wpisu o wczesnym dostępie, który wymienia tekst-do-wideo, obraz-do-wideo, 1080p, 30 sekund i natywny dźwięk; audio jest częścią briefu."
+    },
+    "content": {
+      "en": "Create a 30-second, 16:9 cinematic image-to-video scene from the attached still of a cyclist waiting at an empty coastal road. Preserve the cyclist, bicycle geometry, horizon, and time of day. Begin with natural wind and distant surf as the camera makes a slow side dolly. At 8 seconds, the cyclist starts forward; the wheels, loose jacket fabric, and road spray respond with believable weight. At 18 seconds, the camera moves into a low tracking angle while the sun breaks through the cloud. Build native audio from tire hum, chain movement, wind, gulls, and one soft musical lift at the horizon reveal. Keep motion coherent for the full shot, with no captions, logos, face drift, or artificial loop.",
+      "es": "Crea una escena cinematográfica de 30 segundos, 16:9, desde la imagen adjunta de un ciclista detenido en una carretera costera vacía. Conserva al ciclista, la geometría de la bicicleta, el horizonte y la hora del día. Empieza con viento natural y mar distante mientras la cámara hace un travelling lateral lento. A los 8 segundos, avanza: las ruedas, la chaqueta suelta y el agua de la carretera deben responder con peso creíble. A los 18 segundos, pasa a un seguimiento bajo mientras el sol atraviesa las nubes. Genera audio nativo de neumáticos, cadena, viento, gaviotas y una elevación musical suave. Sin subtítulos, logotipos, deriva facial ni bucles artificiales.",
+      "pt": "Crie uma cena cinematográfica de 30 segundos, 16:9, a partir da imagem de um ciclista parado numa estrada costeira vazia. Preserve o ciclista, a geometria da bicicleta, o horizonte e a hora do dia. Comece com vento natural e mar distante enquanto a câmara faz um travelling lateral lento. Aos 8 segundos, o ciclista avança; rodas, casaco solto e água da estrada devem responder com peso credível. Aos 18 segundos, passe para um travelling baixo enquanto o sol rompe as nuvens. Gere áudio nativo de pneus, corrente, vento, gaivotas e uma elevação musical suave. Sem legendas, logótipos, deriva facial ou loop artificial.",
+      "it": "Crea una scena cinematografica di 30 secondi, 16:9, dall'immagine di un ciclista fermo su una strada costiera vuota. Mantieni ciclista, geometria della bici, orizzonte e ora del giorno. Inizia con vento naturale e mare lontano mentre la camera esegue un lento dolly laterale. A 8 secondi il ciclista parte; ruote, giacca e spruzzi devono reagire con peso credibile. A 18 secondi passa a un tracking basso mentre il sole attraversa le nuvole. Genera audio nativo di gomme, catena, vento, gabbiani e un morbido sollevamento musicale all'orizzonte. Niente sottotitoli, loghi, deriva del volto o loop artificiale.",
+      "de": "Erzeuge eine 30-sekündige, 16:9 große Filmszene aus dem angehängten Standbild eines Radfahrers an einer leeren Küstenstraße. Radfahrer, Fahrradgeometrie, Horizont und Tageszeit bleiben erhalten. Beginne mit natürlichem Wind und fernem Meer, während die Kamera langsam seitlich fährt. Nach 8 Sekunden fährt der Radfahrer los; Räder, lose Jacke und Spritzwasser reagieren mit glaubwürdigem Gewicht. Nach 18 Sekunden in eine niedrige Tracking-Perspektive wechseln, während die Sonne durch die Wolken bricht. Nativen Ton aus Reifen, Kette, Wind, Möwen und einem leisen musikalischen Anheben erzeugen. Keine Untertitel, Logos, Gesichtsdrift oder künstliche Schleife.",
+      "fr": "Créez une scène cinématographique de 30 secondes, 16:9, à partir de l'image d'un cycliste arrêté sur une route côtière vide. Préservez le cycliste, la géométrie du vélo, l'horizon et l'heure. Commencez avec le vent naturel et la mer lointaine pendant un travelling latéral lent. À 8 secondes, le cycliste avance ; roues, veste flottante et éclaboussures doivent réagir avec un poids crédible. À 18 secondes, passez en suivi bas tandis que le soleil traverse les nuages. Générez un audio natif de pneus, chaîne, vent, mouettes et une légère envolée musicale sur la révélation de l'horizon. Aucun sous-titre, logo, dérive du visage ou boucle artificielle.",
+      "ar": "أنشئ مشهدًا سينمائيًا مدته 30 ثانية بنسبة 16:9 انطلاقًا من الصورة المرفقة لسائق دراجة ينتظر على طريق ساحلي فارغ. حافظ على السائق وهندسة الدراجة والأفق ووقت اليوم. ابدأ برياح طبيعية وبحر بعيد بينما تتحرك الكاميرا جانبيًا ببطء. عند الثانية 8 ينطلق السائق؛ يجب أن تستجيب العجلات والسترة الفضفاضة ورذاذ الطريق بوزن مقنع. عند الثانية 18 انتقل إلى تتبع منخفض بينما تخترق الشمس السحب. أنشئ صوتًا أصليًا للإطارات والسلسلة والرياح والنوارس وارتفاع موسيقي ناعم عند كشف الأفق. بلا ترجمة أو شعارات أو تغير للوجه أو حلقة مصطنعة.",
+      "ja": "空の海岸道路で自転車に乗る人が停止している添付静止画から、30秒、16:9のシネマティックな画像から動画へのシーンを作成する。人物、自転車の形、地平線、時刻を維持する。カメラがゆっくり横にドリーする間、自然な風と遠い波音で始める。8秒で走り出し、車輪、ゆるいジャケット、路面の水しぶきが説得力のある重さで反応する。18秒で低いトラッキングへ移り、太陽が雲を抜ける。タイヤ、チェーン、風、カモメ、地平線の reveal での穏やかな音楽をネイティブ音声にする。字幕、ロゴ、顔の変化、人工的なループは不可。",
+      "ko": "빈 해안 도로에 자전거를 탄 사람이 서 있는 첨부 이미지에서 30초, 16:9 시네마틱 이미지 투 비디오 장면을 만드세요. 사람, 자전거 형태, 지평선, 시간을 보존하세요. 카메라가 천천히 옆으로 돌리 이동하는 동안 자연스러운 바람과 먼 파도 소리로 시작합니다. 8초에 출발하고 바퀴, 느슨한 재킷, 도로 물보라가 설득력 있는 무게로 반응하게 하세요. 18초에 낮은 트래킹으로 전환하며 해가 구름 사이로 나옵니다. 타이어, 체인, 바람, 갈매기, 지평선 reveal의 부드러운 음악 상승을 네이티브 오디오로 만드세요. 자막, 로고, 얼굴 변화, 인공 루프는 금지합니다.",
+      "zh": "从一张空旷海岸公路上停着自行车的参考静帧制作一段 30 秒、16:9 的电影感图生视频。保持人物、自行车结构、地平线和时间。镜头缓慢横向移动时，用自然风声和远处海浪开场。第 8 秒人物开始前进；车轮、松动的夹克和路面水花要以可信的重量作出反应。第 18 秒切到低机位跟拍，阳光穿过云层。原生生成轮胎、链条、风、海鸥以及地平线揭示时柔和的音乐抬升。不要字幕、标志、面孔漂移或人工循环。",
+      "nl": "Maak een filmische beeld-naar-videoscène van 30 seconden, 16:9, vanuit het bijgevoegde stilstaande beeld van een fietser op een lege kustweg. Behoud fietser, fietsgeometrie, horizon en tijdstip. Begin met natuurlijke wind en verre branding terwijl de camera langzaam zijwaarts dollyt. Na 8 seconden vertrekt de fietser; wielen, losse jas en opspattend wegwater reageren met geloofwaardig gewicht. Na 18 seconden ga je naar lage tracking terwijl de zon door de wolken breekt. Genereer native audio van banden, ketting, wind, meeuwen en een zachte muzikale lift bij de horizononthulling. Geen ondertitels, logo's, gezichtsd drift of kunstmatige loop.",
+      "ru": "Создай кинематографичную сцену image-to-video длительностью 30 секунд, 16:9, из приложенного кадра велосипедиста на пустой прибрежной дороге. Сохрани велосипедиста, геометрию велосипеда, горизонт и время суток. Начни с естественного ветра и далёкого прибоя, пока камера медленно движется вбок. На 8-й секунде велосипедист стартует; колёса, свободная куртка и брызги реагируют с правдоподобным весом. На 18-й секунде перейди к низкому трекингу, пока солнце выходит из облаков. Создай нативный звук шин, цепи, ветра, чаек и мягкого музыкального подъёма на раскрытии горизонта. Без субтитров, логотипов, дрейфа лица и искусственного цикла.",
+      "tr": "Boş bir sahil yolunda duran bisikletçinin ekli karesinden 30 saniyelik, 16:9 sinematik görüntüden videoya sahnesi oluştur. Bisikletçiyi, bisiklet geometrisini, ufku ve zamanı koru. Kamera yavaşça yana dolly yaparken doğal rüzgâr ve uzaktaki dalga sesiyle başla. 8. saniyede bisikletçi ilerlesin; tekerlekler, gevşek ceket ve yol sıçraması inandırıcı ağırlıkla tepki versin. 18. saniyede güneş bulutlardan çıkarken alçak takip açısına geç. Lastik, zincir, rüzgâr, martı ve ufuk açığa çıkışındaki yumuşak müzik yükselişini yerel ses olarak üret. Altyazı, logo, yüz kayması veya yapay döngü olmasın.",
+      "pl": "Stwórz 30-sekundową, kinową scenę image-to-video 16:9 z załączonego kadru rowerzysty zatrzymanego na pustej nadmorskiej drodze. Zachowaj rowerzystę, geometrię roweru, horyzont i porę dnia. Zacznij od naturalnego wiatru i odległego szumu fal, gdy kamera powoli przesuwa się w bok. W ósmej sekundzie rowerzysta rusza; koła, luźna kurtka i rozprysk wody mają reagować z wiarygodnym ciężarem. W osiemnastej sekundzie przejdź do niskiego trackingu, gdy słońce przebija się przez chmury. Wygeneruj natywne audio opon, łańcucha, wiatru, mew i delikatnego muzycznego podniesienia przy ujawnieniu horyzontu. Bez napisów, logo, dryfu twarzy i sztucznej pętli."
+    },
+    "sourceLink": "https://x.com/enhance_ai/status/2085089954099757225",
+    "sourcePublishedAt": "2026-08-05T19:45:58.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2085089914044207104/img/6fdS2Hv6vcDWrnOm.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2085089914044207104/vid/avc1/1920x1080/YSnIMXNgd_j1-1_q.mp4?tag=29",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085089914044207104/img/6fdS2Hv6vcDWrnOm.jpg"
+    },
+    "author": {
+      "name": "Enhance AI",
+      "link": "https://x.com/enhance_ai"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 6,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2085089954099757225",
+      "prompt_source": "rewritten_from_early_access_showcase",
+      "model_evidence": "wan-3.0",
+      "likeCount": 2,
+      "bookmarkCount": 0,
+      "viewCount": 101,
+      "input_mode": "image-to-video",
+      "curation_note": "Enhance AI's X post describes an early-access Wan 3.0 clip with sound, 1080p, text-to-video, and image-to-video. The post does not expose the creator prompt, so this is a labeled reconstruction of the stated workflow rather than a verbatim source."
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 62,
+          "title": "Native Audio & Performance",
+          "slug": "dialogue-performance-native-audio"
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "model": "wan-3.0",
+    "title": {
+      "en": "Official-demo-style environment reveal with native sound",
+      "es": "Revelación de entorno de estilo demo oficial con sonido nativo",
+      "pt": "Revelação de ambiente em estilo demo oficial com som nativo",
+      "it": "Rivelazione d'ambiente in stile demo ufficiale con suono nativo",
+      "de": "Umgebungsenthüllung im Stil einer offiziellen Demo mit nativem Ton",
+      "fr": "Révélation d'environnement façon démo officielle avec son natif",
+      "ar": "كشف بيئة بأسلوب عرض رسمي مع صوت أصلي",
+      "ja": "公式デモ風の環境 reveal とネイティブサウンド",
+      "ko": "공식 데모 스타일의 환경 reveal과 네이티브 사운드",
+      "zh": "官方演示风格的环境揭示与原生声音",
+      "nl": "Omgevingsonthulling in officiële-demostijl met native geluid",
+      "ru": "Раскрытие среды в стиле официальной демо с нативным звуком",
+      "tr": "Yerel sesli resmi demo tarzı çevre açığa çıkışı",
+      "pl": "Ujawnienie środowiska w stylu oficjalnego dema z natywnym dźwiękiem"
+    },
+    "description": {
+      "en": "A clearly labeled reconstruction based on a community post identifying its attached clip as an official Wan 3.0 demo, focused on one continuous environment reveal instead of unsupported model specifications.",
+      "es": "Reconstrucción claramente etiquetada a partir de una publicación comunitaria que identifica su vídeo como demo oficial de Wan 3.0, sin convertir especificaciones no verificadas en hechos.",
+      "pt": "Reconstrução claramente identificada a partir de uma publicação comunitária que chama ao vídeo uma demo oficial do Wan 3.0, sem transformar especificações não verificadas em factos.",
+      "it": "Ricostruzione dichiarata a partire da un post della community che identifica il video come demo ufficiale di Wan 3.0, senza trasformare specifiche non verificate in fatti.",
+      "de": "Eine klar gekennzeichnete Rekonstruktion aus einem Community-Post, der das Video als offizielle Wan-3.0-Demo bezeichnet, ohne ungeprüfte Spezifikationen als Fakten auszugeben.",
+      "fr": "Reconstruction explicitement signalée à partir d'un post communautaire qui identifie la vidéo comme une démo officielle de Wan 3.0, sans transformer des spécifications non vérifiées en faits.",
+      "ar": "إعادة بناء موسومة بوضوح اعتمادًا على منشور مجتمعي يعرّف الفيديو بأنه عرض رسمي لـ Wan 3.0، من دون تحويل المواصفات غير المؤكدة إلى حقائق.",
+      "ja": "コミュニティ投稿が添付映像をWan 3.0の公式デモと説明していることに基づく、明示的に再構成したケース。未確認の仕様は事実として扱わない。",
+      "ko": "커뮤니티 게시물이 첨부 영상을 Wan 3.0 공식 데모로 설명한 것을 바탕으로 명확히 재구성했습니다. 확인되지 않은 사양은 사실로 만들지 않습니다.",
+      "zh": "根据社区帖子将视频标注为 Wan 3.0 官方演示这一证据明确重构，不把未经确认的规格写成事实。",
+      "nl": "Een duidelijk gelabelde reconstructie uit een communitypost die de video een officiële Wan 3.0-demo noemt, zonder onbevestigde specificaties als feiten te presenteren.",
+      "ru": "Явно обозначенная реконструкция по посту сообщества, который называет видео официальной демо Wan 3.0; неподтверждённые спецификации не выдаются за факты.",
+      "tr": "Topluluk gönderisinin videoyu resmi Wan 3.0 demosu olarak tanımlamasına dayanan açık etiketli bir yeniden kurulum; doğrulanmamış özellikler gerçek olarak sunulmaz.",
+      "pl": "Wyraźnie oznaczona rekonstrukcja na podstawie wpisu społeczności, który nazywa wideo oficjalnym demem Wan 3.0; nie przedstawia niepotwierdzonych specyfikacji jako faktów."
+    },
+    "content": {
+      "en": "Create a 30-second, 16:9 cinematic environment reveal. Start in a quiet interior with a person opening a tall window at blue hour. Follow the movement with a slow handheld push toward the opening, then transition outside into a wide coastal landscape with moving clouds, distant lights, and visible wind through nearby fabric. Keep the person and the architecture consistent while the world expands around them. Use natural room tone that gives way to wind, birds, soft surf, and a restrained orchestral rise. Let the final wide shot breathe for several seconds. Prioritize spatial continuity, physical light, and a readable camera path. No text, subtitles, logos, or invented technical labels.",
+      "es": "Crea una revelación cinematográfica de entorno de 30 segundos, 16:9. Empieza en un interior silencioso con una persona que abre una ventana alta al anochecer. Sigue el gesto con un acercamiento manual lento y pasa al exterior, hacia un paisaje costero amplio con nubes, luces lejanas y viento visible en una tela cercana. Mantén constante a la persona y la arquitectura mientras el mundo se abre. Usa ambiente interior, viento, aves, oleaje y una subida orquestal sobria. Deja respirar el plano general final. Prioriza continuidad espacial, luz física y un recorrido de cámara legible. Sin texto, subtítulos, logotipos ni etiquetas técnicas inventadas.",
+      "pt": "Crie uma revelação cinematográfica de ambiente de 30 segundos, 16:9. Comece num interior silencioso com uma pessoa a abrir uma janela alta ao anoitecer. Siga o gesto com um push-in manual lento e passe para um vasto litoral exterior com nuvens, luzes distantes e vento visível num tecido próximo. Mantenha a pessoa e a arquitetura consistentes enquanto o mundo se abre. Use ambiente interior, vento, aves, ondas e uma subida orquestral contida. Deixe o plano geral final respirar. Priorize continuidade espacial, luz física e um percurso de câmara legível. Sem texto, legendas, logótipos ou rótulos técnicos inventados.",
+      "it": "Crea una rivelazione cinematografica d'ambiente di 30 secondi, 16:9. Inizia in un interno silenzioso con una persona che apre una finestra alta al crepuscolo. Segui il gesto con un lento push-in a mano e passa all'esterno, verso un ampio paesaggio costiero con nuvole, luci lontane e vento visibile in un tessuto vicino. Mantieni persona e architettura coerenti mentre il mondo si apre. Usa ambiente interno, vento, uccelli, onde e una contenuta salita orchestrale. Lascia respirare il campo largo finale. Dai priorità a continuità spaziale, luce fisica e percorso di camera leggibile. Niente testo, sottotitoli, loghi o etichette tecniche inventate.",
+      "de": "Erzeuge eine 30-sekündige, 16:9 große filmische Umgebungsenthüllung. Beginne in einem stillen Innenraum, in dem eine Person bei blauer Stunde ein hohes Fenster öffnet. Folge der Bewegung mit einem langsamen Handheld-Push und gehe nach draußen in eine weite Küstenlandschaft mit Wolken, fernen Lichtern und sichtbarem Wind in einem nahen Stoff. Person und Architektur bleiben konstant, während sich die Welt öffnet. Innenraumton geht in Wind, Vögel, Brandung und einen zurückhaltenden Orchesteranstieg über. Die finale Totale mehrere Sekunden atmen lassen. Räumliche Kontinuität, physisches Licht und einen lesbaren Kamerapfad priorisieren. Kein Text, keine Untertitel, Logos oder erfundene Techniklabels.",
+      "fr": "Créez une révélation d'environnement cinématographique de 30 secondes, au format 16:9. Commencez dans un intérieur silencieux où une personne ouvre une grande fenêtre à l'heure bleue. Suivez le geste par un lent push à l'épaule, puis sortez vers un vaste paysage côtier avec nuages, lumières lointaines et vent visible dans un tissu proche. Gardez la personne et l'architecture cohérentes pendant que le monde s'ouvre. Faites passer le son intérieur au vent, aux oiseaux, aux vagues et à une montée orchestrale retenue. Laissez respirer le plan large final. Priorité à la continuité spatiale, à la lumière physique et à un trajet de caméra lisible. Aucun texte, sous-titre, logo ou label technique inventé.",
+      "ar": "أنشئ كشفًا سينمائيًا للبيئة مدته 30 ثانية بنسبة 16:9. ابدأ في داخل هادئ تفتح فيه شخصية نافذة طويلة عند الساعة الزرقاء. تابع الحركة باقتراب يدوي بطيء، ثم اخرج إلى منظر ساحلي واسع مع سحب وأضواء بعيدة ورياح ظاهرة في قماش قريب. حافظ على الشخصية والهندسة بينما ينفتح العالم. انتقل بالصوت من جو الغرفة إلى الرياح والطيور والأمواج وارتفاع أوركسترالي هادئ. دع اللقطة الواسعة الأخيرة تتنفس عدة ثوانٍ. أعط الأولوية للاستمرارية المكانية والضوء الفيزيائي ومسار الكاميرا الواضح. بلا نص أو ترجمة أو شعارات أو تسميات تقنية مختلقة.",
+      "ja": "30秒、16:9のシネマティックな環境 reveal を作成する。ブルーアワーに人物が高い窓を開ける静かな室内から始める。ゆっくりしたハンドヘルドのプッシュで動きを追い、雲、遠い光、近くの布に見える風がある広い海岸風景へ外に出る。世界が広がっても人物と建築を一貫させる。室内の環境音から風、鳥、波、抑えたオーケストラの上昇へ移行する。最後のワイドショットを数秒保つ。空間の連続性、物理的な光、読みやすいカメラパスを優先する。文字、字幕、ロゴ、架空の技術ラベルは不可。",
+      "ko": "30초, 16:9 시네마틱 환경 reveal을 만드세요. 블루 아워에 인물이 높은 창을 여는 조용한 실내에서 시작합니다. 느린 핸드헬드 푸시로 동작을 따라가고, 구름과 먼 불빛, 가까운 천에 보이는 바람이 있는 넓은 해안 풍경으로 나가세요. 세계가 열리는 동안 인물과 건축을 일관되게 유지하세요. 실내 공간음에서 바람, 새, 파도, 절제된 오케스트라 상승으로 전환합니다. 마지막 와이드 숏은 몇 초 동안 유지하세요. 공간 연속성, 물리적 빛, 읽기 쉬운 카메라 경로를 우선하세요. 텍스트, 자막, 로고, 임의의 기술 라벨은 금지합니다.",
+      "zh": "制作一段 30 秒、16:9 的电影感环境揭示。蓝调时刻从安静室内开始，一位人物打开高窗。用缓慢手持推进跟随动作，然后走向开阔的海岸风景：云层、远处灯光和近处布料上可见的风都保持自然。世界展开时，人物和建筑保持一致。声音从室内环境过渡到风、鸟、海浪和克制的管弦乐上扬。让最后的大全景停留数秒。优先保证空间连续性、物理光线和清晰的镜头路径。不要文字、字幕、标志或虚构技术标签。",
+      "nl": "Maak een filmische omgevingsonthulling van 30 seconden, 16:9. Begin in een stille binnenruimte waar iemand in het blauwe uur een hoog raam opent. Volg het gebaar met een langzame handheld push en ga naar buiten, naar een breed kustlandschap met wolken, verre lichten en zichtbare wind in een nabij stuk stof. Houd persoon en architectuur consistent terwijl de wereld opent. Laat kamertoon overgaan in wind, vogels, branding en een ingetogen orkestrale stijging. Laat het laatste totaalbeeld enkele seconden ademen. Prioriteit aan ruimtelijke continuïteit, fysiek licht en een leesbaar camerapad. Geen tekst, ondertitels, logo's of verzonnen technische labels.",
+      "ru": "Создай кинематографичное раскрытие среды длительностью 30 секунд, 16:9. Начни в тихом интерьере, где человек открывает высокое окно в синий час. Проследи движение медленным ручным push-in и выйди в широкий прибрежный пейзаж с облаками, дальними огнями и ветром, заметным по ближайшей ткани. Сохрани человека и архитектуру, пока мир раскрывается. Переведи звук интерьера в ветер, птиц, прибой и сдержанное оркестровое нарастание. Дай финальному общему плану несколько секунд. Приоритет — пространственная непрерывность, физический свет и понятная траектория камеры. Без текста, субтитров, логотипов и выдуманных технических ярлыков.",
+      "tr": "30 saniyelik, 16:9 sinematik bir çevre açığa çıkışı oluştur. Mavi saatte bir kişinin yüksek bir pencereyi açtığı sessiz iç mekânla başla. Hareketi yavaş bir elde kamera push-in'i ile takip et ve bulutlar, uzak ışıklar ve yakındaki kumaşta görülen rüzgârın bulunduğu geniş bir kıyı manzarasına çık. Dünya açılırken kişiyi ve mimariyi tutarlı koru. İç mekân sesini rüzgâr, kuşlar, dalga ve ölçülü orkestra yükselişine taşı. Son geniş plan birkaç saniye nefes alsın. Mekânsal süreklilik, fiziksel ışık ve okunaklı kamera yolunu öne çıkar. Metin, altyazı, logo veya uydurma teknik etiket olmasın.",
+      "pl": "Stwórz 30-sekundowe, kinowe ujawnienie środowiska 16:9. Zacznij w cichym wnętrzu, gdzie osoba otwiera wysokie okno o niebieskiej godzinie. Śledź gest powolnym handheldowym push-inem, a potem wyjdź do szerokiego nadmorskiego krajobrazu z chmurami, odległymi światłami i widocznym wiatrem poruszającym pobliską tkaninę. Zachowaj spójność osoby i architektury, gdy świat się otwiera. Przejdź od dźwięku wnętrza do wiatru, ptaków, fal i stonowanego narastania orkiestry. Pozwól końcowemu szerokiemu planowi wybrzmieć przez kilka sekund. Priorytetem są ciągłość przestrzenna, fizyczne światło i czytelna ścieżka kamery. Bez tekstu, napisów, logo i zmyślonych etykiet technicznych."
+    },
+    "sourceLink": "https://x.com/FurkanGozukara/status/2084741391012286807",
+    "sourcePublishedAt": "2026-08-04T20:40:54.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2084741113894584320/img/vqjwcPxwyqxvccJB.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2084741113894584320/vid/avc1/1280x720/VKBqU5of84zaTd6F.mp4?tag=29",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084741113894584320/img/vqjwcPxwyqxvccJB.jpg"
+    },
+    "author": {
+      "name": "Furkan Gozukara",
+      "link": "https://x.com/FurkanGozukara"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 7,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2084741391012286807",
+      "prompt_source": "rewritten_from_community_identified_official_demo",
+      "model_evidence": "wan-3.0",
+      "likeCount": 6,
+      "bookmarkCount": 0,
+      "viewCount": 5882,
+      "input_mode": "text-to-video",
+      "curation_note": "The X post identifies the attached video as an official demo, but does not publish a first-party prompt. This entry preserves that evidence boundary and contributes a reusable reconstruction without turning community claims into official specifications."
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 62,
+          "title": "Native Audio & Performance",
+          "slug": "dialogue-performance-native-audio"
+        }
+      ]
+    }
+  }
+]

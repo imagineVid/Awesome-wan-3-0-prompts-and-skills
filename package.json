@@ -1,0 +1,23 @@
+{
+  "name": "awesome-wan-3-0-prompts-and-skills",
+  "version": "1.0.0",
+  "description": "Source-backed Wan 3.0 Video prompts, shot patterns, and audiovisual workflows by ImagineVid",
+  "type": "module",
+  "scripts": {
+    "generate": "pnpm run validate && tsx scripts/generate-readme.ts",
+    "validate": "tsx scripts/validate-data.ts",
+    "audit:duplicates": "tsx scripts/validate-data.ts --media",
+    "quality:twitter": "tsx scripts/score-twitter-candidates.ts",
+    "test": "tsx --test scripts/utils/*.test.ts",
+    "sync": "tsx scripts/sync-approved-to-data.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@octokit/rest": "^20.0.2",
+    "@types/node": "^20.10.0",
+    "dotenv": "^17.2.3",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  },
+  "packageManager": "pnpm@9.15.9"
+}
