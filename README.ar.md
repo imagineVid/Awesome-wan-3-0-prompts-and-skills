@@ -100,7 +100,7 @@
 |--------|-------|
 | أمثلة موثّقة | **7** |
 | اختيار تحريري | **4** |
-| تاريخ التوليد | **الثلاثاء، 18 أغسطس 2026 في 12:37:13 م UTC** |
+| تاريخ التوليد | **الثلاثاء، 18 أغسطس 2026 في 4:26:27 م UTC** |
 
 </div>
 
@@ -556,6 +556,6 @@ Create a 30-second, 16:9 cinematic environment reveal. Start in a quiet interior
 **[أرسل مثالًا موثّقًا](https://github.com/imagineVid/Awesome-wan-3-0-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ضع نجمة للمجموعة](https://github.com/imagineVid/Awesome-wan-3-0-prompts-and-skills)**
 
-<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-08-18T12:37:13.474Z</sub>
+<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-08-18T16:26:27.994Z</sub>
 
 </div>
