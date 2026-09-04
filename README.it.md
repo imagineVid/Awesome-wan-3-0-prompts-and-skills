@@ -100,7 +100,7 @@ Inizia con un'azione e un'idea per la camera. Aggiungi timing, audio e vincoli d
 |--------|-------|
 | Casi verificati | **7** |
 | Selezione editoriale | **4** |
-| Generato | **venerdì 4 settembre 2026 alle ore 08:27:34 UTC** |
+| Generato | **venerdì 4 settembre 2026 alle ore 15:42:00 UTC** |
 
 </div>
 
@@ -556,6 +556,6 @@ I testi editoriali e il codice realizzati da ImagineVid sono distribuiti con lic
 **[Invia un caso verificato](https://github.com/imagineVid/Awesome-wan-3-0-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Metti una stella alla raccolta](https://github.com/imagineVid/Awesome-wan-3-0-prompts-and-skills)**
 
-<sub>Generato dai dati locali versionati il 2026-09-04T08:27:34.010Z</sub>
+<sub>Generato dai dati locali versionati il 2026-09-04T15:42:00.236Z</sub>
 
 </div>
