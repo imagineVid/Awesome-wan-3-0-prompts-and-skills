@@ -100,7 +100,7 @@ Empieza con una acción y una idea de cámara. Añade restricciones de tiempo, a
 |--------|-------|
 | Casos verificados | **7** |
 | Selección editorial | **4** |
-| Generado | **sábado, 5 de septiembre de 2026, 21:53:40 UTC** |
+| Generado | **domingo, 6 de septiembre de 2026, 2:44:26 UTC** |
 
 </div>
 
@@ -556,6 +556,6 @@ El texto editorial y el código creados por ImagineVid están publicados bajo [C
 **[Envía un caso verificado](https://github.com/imagineVid/Awesome-wan-3-0-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Añade una estrella a la colección](https://github.com/imagineVid/Awesome-wan-3-0-prompts-and-skills)**
 
-<sub>Generado a partir de datos locales versionados el 2026-09-05T21:53:40.194Z</sub>
+<sub>Generado a partir de datos locales versionados el 2026-09-06T02:44:26.652Z</sub>
 
 </div>
