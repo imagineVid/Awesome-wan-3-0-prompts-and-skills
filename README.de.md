@@ -100,7 +100,7 @@ Beginne mit einer Handlung und einer Kameridee. Füge Timing, Audio und Erhaltun
 |--------|-------|
 | Verifizierte Fälle | **7** |
 | Redaktionelle Auswahl | **4** |
-| Generiert | **Sonntag, 6. September 2026 um 02:44:26 UTC** |
+| Generiert | **Sonntag, 6. September 2026 um 08:20:03 UTC** |
 
 </div>
 
@@ -556,6 +556,6 @@ Von ImagineVid verfasste redaktionelle Texte und Code stehen unter [CC BY 4.0](h
 **[Einen verifizierten Fall einreichen](https://github.com/imagineVid/Awesome-wan-3-0-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Die Sammlung mit einem Stern markieren](https://github.com/imagineVid/Awesome-wan-3-0-prompts-and-skills)**
 
-<sub>Generiert aus versionierten lokalen Daten am 2026-09-06T02:44:26.667Z</sub>
+<sub>Generiert aus versionierten lokalen Daten am 2026-09-06T08:20:03.388Z</sub>
 
 </div>
