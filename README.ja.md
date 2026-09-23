@@ -100,7 +100,7 @@
 |--------|-------|
 | 検証済みケース | **7** |
 | 編集部のおすすめ | **4** |
-| 生成日時 | **2026年9月23日水曜日 16:01:07 UTC** |
+| 生成日時 | **2026年9月23日水曜日 22:39:20 UTC** |
 
 </div>
 
@@ -556,6 +556,6 @@ ImagineVidが作成した編集テキストとコードは[CC BY 4.0](https://cr
 **[検証済みケースを投稿する](https://github.com/imagineVid/Awesome-wan-3-0-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[コレクションにスターを付ける](https://github.com/imagineVid/Awesome-wan-3-0-prompts-and-skills)**
 
-<sub>バージョン管理されたローカルデータから生成： 2026-09-23T16:01:07.753Z</sub>
+<sub>バージョン管理されたローカルデータから生成： 2026-09-23T22:39:20.531Z</sub>
 
 </div>
