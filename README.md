@@ -100,7 +100,7 @@ Begin with one action and one camera idea. Add timing, audio, and preservation c
 |--------|-------|
 | Verified Cases | **7** |
 | Editorial pick | **4** |
-| Generated | **Tuesday, September 29, 2026 at 11:25:06 PM UTC** |
+| Generated | **Wednesday, September 30, 2026 at 3:49:06 AM UTC** |
 
 </div>
 
@@ -493,6 +493,6 @@ ImagineVid-authored editorial text and code are licensed under [CC BY 4.0](https
 **[Submit a verified case](https://github.com/imagineVid/Awesome-wan-3-0-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star the collection](https://github.com/imagineVid/Awesome-wan-3-0-prompts-and-skills)**
 
-<sub>Generated from versioned local data on 2026-09-29T23:25:06.608Z</sub>
+<sub>Generated from versioned local data on 2026-09-30T03:49:06.475Z</sub>
 
 </div>
