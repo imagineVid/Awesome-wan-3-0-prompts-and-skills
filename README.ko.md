@@ -100,7 +100,7 @@
 |--------|-------|
 | 검증된 사례 | **7** |
 | 에디터 추천 | **4** |
-| 생성 시각 | **2026년 10월 13일 화요일 오후 6시 49분 26초 UTC** |
+| 생성 시각 | **2026년 10월 13일 화요일 오후 11시 34분 40초 UTC** |
 
 </div>
 
@@ -556,6 +556,6 @@ ImagineVid가 작성한 편집 문구와 코드는 [CC BY 4.0](https://creativec
 **[검증된 사례 제출](https://github.com/imagineVid/Awesome-wan-3-0-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[컬렉션에 별표하기](https://github.com/imagineVid/Awesome-wan-3-0-prompts-and-skills)**
 
-<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-10-13T18:49:26.723Z</sub>
+<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-10-13T23:34:40.865Z</sub>
 
 </div>
