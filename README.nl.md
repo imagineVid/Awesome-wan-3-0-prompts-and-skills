@@ -100,7 +100,7 @@ Begin met één actie en één camera-idee. Voeg timing, audio- en behoudsbeperk
 |--------|-------|
 | Geverifieerde voorbeelden | **7** |
 | Redactionele keuze | **4** |
-| Gegenereerd | **dinsdag 13 oktober 2026 om 23:34:40 UTC** |
+| Gegenereerd | **woensdag 14 oktober 2026 om 03:23:05 UTC** |
 
 </div>
 
@@ -556,6 +556,6 @@ Redactionele tekst en code van ImagineVid vallen onder [CC BY 4.0](https://creat
 **[Een geverifieerd voorbeeld indienen](https://github.com/imagineVid/Awesome-wan-3-0-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Geef de collectie een ster](https://github.com/imagineVid/Awesome-wan-3-0-prompts-and-skills)**
 
-<sub>Gegenereerd uit versiebeheerste lokale data op 2026-10-13T23:34:40.872Z</sub>
+<sub>Gegenereerd uit versiebeheerste lokale data op 2026-10-14T03:23:05.449Z</sub>
 
 </div>
