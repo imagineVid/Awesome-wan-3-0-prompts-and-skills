@@ -100,7 +100,7 @@ Commencez par une action et une idée de caméra. Ajoutez le timing, l'audio et 
 |--------|-------|
 | Cas vérifiés | **7** |
 | Sélection éditoriale | **4** |
-| Généré | **lundi 19 octobre 2026 à 09:33:08 UTC** |
+| Généré | **lundi 19 octobre 2026 à 18:16:40 UTC** |
 
 </div>
 
@@ -556,6 +556,6 @@ Les textes éditoriaux et le code rédigés par ImagineVid sont placés sous [CC
 **[Proposer un cas vérifié](https://github.com/imagineVid/Awesome-wan-3-0-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Ajouter une étoile à la collection](https://github.com/imagineVid/Awesome-wan-3-0-prompts-and-skills)**
 
-<sub>Généré à partir des données locales versionnées le 2026-10-19T09:33:08.989Z</sub>
+<sub>Généré à partir des données locales versionnées le 2026-10-19T18:16:40.745Z</sub>
 
 </div>
