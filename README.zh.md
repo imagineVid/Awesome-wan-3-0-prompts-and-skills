@@ -100,7 +100,7 @@
 |--------|-------|
 | 已核验案例 | **7** |
 | 编辑精选 | **4** |
-| 生成时间 | **2026年10月22日星期四 UTC 09:07:49** |
+| 生成时间 | **2026年10月22日星期四 UTC 16:34:01** |
 
 </div>
 
@@ -556,6 +556,6 @@ ImagineVid 编写的编辑文本和代码依据 [CC BY 4.0](https://creativecomm
 **[提交已核验案例](https://github.com/imagineVid/Awesome-wan-3-0-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为集合加星](https://github.com/imagineVid/Awesome-wan-3-0-prompts-and-skills)**
 
-<sub>根据版本化本地数据生成于 2026-10-22T09:07:49.557Z</sub>
+<sub>根据版本化本地数据生成于 2026-10-22T16:34:01.409Z</sub>
 
 </div>
