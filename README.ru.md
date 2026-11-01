@@ -100,7 +100,7 @@
 |--------|-------|
 | Проверенные примеры | **7** |
 | Редакционный выбор | **4** |
-| Сгенерировано | **суббота, 31 октября 2026 г. в 23:01:41 UTC** |
+| Сгенерировано | **воскресенье, 1 ноября 2026 г. в 04:08:21 UTC** |
 
 </div>
 
@@ -556,6 +556,6 @@ Create a 30-second, 16:9 cinematic environment reveal. Start in a quiet interior
 **[Отправить проверенный пример](https://github.com/imagineVid/Awesome-wan-3-0-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставить звезду коллекции](https://github.com/imagineVid/Awesome-wan-3-0-prompts-and-skills)**
 
-<sub>Сгенерировано из версионируемых локальных данных 2026-10-31T23:01:41.686Z</sub>
+<sub>Сгенерировано из версионируемых локальных данных 2026-11-01T04:08:21.838Z</sub>
 
 </div>
